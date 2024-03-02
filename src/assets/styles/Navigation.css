@@ -1,0 +1,11 @@
+
+.navbar {
+    background-color: yellow;
+    display: block;
+
+    .navbar-item {
+        background-color: pink;
+        display: inline-block;
+        padding: 0px 24px;
+    }
+}
