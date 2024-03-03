@@ -1,18 +1,18 @@
 
 import '../assets/styles/Navigation.css'
-import { Link } from 'react-router-dom'
+import { NavLink } from 'react-router-dom'
 
 const Navigation = () => {
 
     return (
         <nav>
             <ul className='navbar'>
-                <Link className='navbar-item' to='/'>Home</Link>
-                <Link className='navbar-item' to='points'>Points</Link>
-                <Link className='navbar-item' to='pick-team'>Pick Team</Link>
-                <Link className='navbar-item' to='transfers'>Transfers</Link>
-                <Link className='navbar-item' to='fixtures'>Fixtures</Link>
-                <Link className='navbar-item' to='statistics'>Stats</Link>
+                <NavLink className='navbar-item' to='/'>Home</NavLink>
+                <NavLink className='navbar-item' to='points'>Points</NavLink>
+                <NavLink className='navbar-item' to='pick-team'>Pick Team</NavLink>
+                <NavLink className='navbar-item' to='transfers'>Transfers</NavLink>
+                <NavLink className='navbar-item' to='fixtures'>Fixtures</NavLink>
+                <NavLink className='navbar-item' to='statistics'>Stats</NavLink>
             </ul>
         </nav>
     )
