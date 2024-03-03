@@ -5,7 +5,7 @@
 
     .navbar-item {
         margin: 0px 5px 0px 5rem;
-        background-color: pink;
+        background-color: var(--bg-pink);
         padding: 15px 40px;
         border-radius: 15px 15px 0px 0px;
         max-height: 3rem;
@@ -17,15 +17,16 @@
     }
 
     .navbar-item:hover {
-        background-color: green;
+        background: linear-gradient(to bottom, var(--bg-pink), var(--bg-light))
     }
 
     a.active {
-        background-color: blue;
+        background-color: var(--bg-light);
     }
 }
 
 .team-site-header {
+    background-color: var(--bg-pink);
     display: flex;
     justify-content: center;
 

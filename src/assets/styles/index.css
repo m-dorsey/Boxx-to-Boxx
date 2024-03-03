@@ -1,5 +1,9 @@
 
 :root {
+  --bg-pink: #FFB3C1;
+  --bg-medium: #FFCCD5;
+  --bg-light: #FFF0F3;
+  
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
-
+  background-color: var(--bg-light);
 }
