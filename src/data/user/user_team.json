@@ -1,0 +1,186 @@
+{
+    "team_name": "Say Huitema for Me",
+    "players": {
+        "GK": [
+            {
+                "player_id": "1450489890",
+                "player_image": "https://apiv3.apifootball.com/badges/players/232655_a-kingsbury.jpg",
+                "player_name": "Aubrey Kingsbury",
+                "player_number": "1",
+                "player_type": "GK",
+                "player_team": "WAS",
+                "player_birthdate": "1991-11-20",
+                "is_sub": false,
+                "is_assigned": false
+            }
+        ],
+        "SUB": [
+            {
+                "player_id": "2595596411",
+                "player_image": "https://apiv3.apifootball.com/badges/players/240861_m-bright.jpg",
+                "player_name": "Messiah Bright",
+                "player_number": "23",
+                "player_type": "FWD",
+                "player_team": "ORL",
+                "player_birthdate": "2000-01-12",
+                "is_sub": true,
+                "is_assigned": false
+            },
+            {
+                "player_id": "2699857787",
+                "player_image": "https://apiv3.apifootball.com/badges/players/16544_y-nagasato.jpg",
+                "player_name": "Yuki Nagasato",
+                "player_number": "7",
+                "player_type": "FWD",
+                "player_team": "CHI",
+                "player_birthdate": "1987-07-15",
+                "is_sub": true,
+                "is_assigned": false
+            },
+            {
+                "player_id": "1640891969",
+                "player_image": "https://apiv3.apifootball.com/badges/players/232751_m-betos.jpg",
+                "player_name": "Michelle Betos",
+                "player_number": "1",
+                "player_type": "GK",
+                "player_team": "NJY",
+                "player_birthdate": "1988-02-20",
+                "is_sub": true,
+                "is_assigned": false
+            },
+            {
+                "player_id": "3708570055",
+                "player_image": "https://apiv3.apifootball.com/badges/players/232801_m-swanson.jpg",
+                "player_name": "Mal Swanson",
+                "player_number": "9",
+                "player_type": "FWD",
+                "player_team": "CHI",
+                "player_birthdate": "1998-04-29",
+                "is_sub": true,
+                "is_assigned": false
+            }
+        ],
+        "MID": [
+            {
+                "player_id": "3939620981",
+                "player_image": "https://apiv3.apifootball.com/badges/players/232668_a-sullivan.jpg",
+                "player_name": "Andi Sullivan",
+                "player_number": "12",
+                "player_type": "MID",
+                "player_team": "WAS",
+                "player_birthdate": "1995-12-20",
+                "is_sub": false,
+                "is_assigned": false
+            },
+            {
+                "player_id": "2664183978",
+                "player_image": "https://apiv3.apifootball.com/badges/players/232557_m-weaver.jpg",
+                "player_name": "Morgan Weaver",
+                "player_number": "22",
+                "player_type": "MID",
+                "player_team": "POR",
+                "player_birthdate": "1997-10-18",
+                "is_sub": false,
+                "is_assigned": false
+            },
+            {
+                "player_id": "1390893367",
+                "player_image": "https://apiv3.apifootball.com/badges/players/245411_andressa-alves.jpg",
+                "player_name": "Andressa Alves",
+                "player_number": "77",
+                "player_type": "MID",
+                "player_team": "HOU",
+                "player_birthdate": "1992-11-10",
+                "is_sub": false,
+                "is_assigned": false
+            },
+            {
+                "player_id": "3169400859",
+                "player_image": "https://apiv3.apifootball.com/badges/players/232830_debinha.jpg",
+                "player_name": "Debinha",
+                "player_number": "99",
+                "player_type": "MID",
+                "player_team": "KC",
+                "player_birthdate": "1991-10-20",
+                "is_sub": false,
+                "is_assigned": false
+            }
+        ],
+        "DEF": [
+            {
+                "player_id": "1031583048",
+                "player_image": "https://apiv3.apifootball.com/badges/players/232784_c-dydasco.jpg",
+                "player_name": "Caprice Dydasco",
+                "player_number": "3",
+                "player_type": "DEF",
+                "player_team": "HOU",
+                "player_birthdate": "1993-08-19",
+                "is_sub": false,
+                "is_assigned": false
+            },
+            {
+                "player_id": "930089969",
+                "player_image": "https://apiv3.apifootball.com/badges/players/240837_n-girma.jpg",
+                "player_name": "Naomi Girma",
+                "player_number": "4",
+                "player_type": "DEF",
+                "player_team": "SD",
+                "player_birthdate": "2000-06-14",
+                "is_sub": false,
+                "is_assigned": false
+            },
+            {
+                "player_id": "3300925233",
+                "player_image": "https://apiv3.apifootball.com/badges/players/241101_k-oaposhara.jpg",
+                "player_name": "Kelley O'Hara",
+                "player_number": "5",
+                "player_type": "DEF",
+                "player_team": "NJY",
+                "player_birthdate": "1988-08-04",
+                "is_sub": false,
+                "is_assigned": false
+            },
+            {
+                "player_id": "424950457",
+                "player_image": "https://apiv3.apifootball.com/badges/players/240615_e-fox.jpg",
+                "player_name": "Emily Fox",
+                "player_number": "12",
+                "player_type": "DEF",
+                "player_team": "NC",
+                "player_birthdate": "1998-07-05",
+                "is_sub": false,
+                "is_assigned": false
+            }
+        ],
+        "FWD": [
+            {
+                "player_id": "2747390682",
+                "player_image": "https://apiv3.apifootball.com/badges/players/240640_t-rodman.jpg",
+                "player_name": "Trinity Rodman",
+                "player_number": "2",
+                "player_type": "FWD",
+                "player_team": "WAS",
+                "player_birthdate": "2002-05-20",
+                "is_sub": false,
+                "is_assigned": false
+            },
+            {
+                "player_id": "321294488",
+                "player_image": "https://apiv3.apifootball.com/badges/players/233300_s-leroux.jpg",
+                "player_name": "Sydney Leroux",
+                "player_number": "2",
+                "player_type": "FWD",
+                "player_team": "ORL",
+                "player_birthdate": "1990-05-07",
+                "is_sub": false,
+                "is_assigned": false
+            }
+        ],
+        
+        "total_players": 15
+    },
+    "has_team": true,
+    "num_transfers": 0,
+    "bank_amount": 0.00,
+    "matchday_data": []
+}

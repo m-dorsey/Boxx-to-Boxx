@@ -1,10 +1,10 @@
 
-import '../assets/styles/Player.css'
+import '../assets/styles/Players.css'
 import colors from '../data/colors.json'
 
 export const Jersey = (props) => {
 
-    console.log(props)
+    // console.log(props)
 
     const getColor = (loc) => {
         return (colors[props.team][loc])

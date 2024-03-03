@@ -6,6 +6,7 @@
 
     .player_container {
         background-color: chocolate;
+        padding: 0px 10px;
         position: relative;
 
         .player_left_icons {
@@ -13,7 +14,7 @@
             display: inline-block;
             position: absolute;
             top: 0;
-            left: 0;
+            left: 10px;
         }
 
         .player_right_icons {
@@ -21,23 +22,27 @@
             display: inline-block;
             position: absolute;
             top: 0;
-            right: 0;
+            right: 10px;
         }
 
         .player_snippet {
             margin-top: -5px;
             background-color: yellow;
             font-size: 12px;
+            text-align: center;
+            font-variant: small-caps;
+            font-weight: 500;
+        }
+
+        .jersey {
+
+            color: red;
+            height: 80px;
+            border: 1px solid;
+
         }
 
     }
 
 }
 
-.jersey {
-
-    color: red;
-    height: 80px;
-    border: 1px solid;
-
-}

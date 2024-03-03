@@ -32,7 +32,7 @@
 .pitch {
     background-color: yellow;
     position: relative;
-    min-height: 550px;
+    min-height: 575px;
     background-image: url('../images/pitch.png');
     background-position: center;
     background-size: contain;
@@ -60,7 +60,7 @@
         }
 
         .formation_line:first-child {
-            margin-bottom: 85px;
+            margin-bottom: 10px;
         }
 
     }

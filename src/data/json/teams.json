@@ -12,7 +12,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240824_b-isenhour.jpg",
                 "player_name": "Brittany Isenhour",
                 "player_number": "1",
-                "player_type": "Goalkeepers",
+                "player_type": "GK",
+                "player_team": "LA",
                 "player_birthdate": "1997-09-22"
             },
             {
@@ -20,7 +21,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232780_d-harai.jpg",
                 "player_name": "DiDi Haračić",
                 "player_number": "13",
-                "player_type": "Goalkeepers",
+                "player_type": "GK",
+                "player_team": "LA",
                 "player_birthdate": "1992-04-12"
             },
             {
@@ -28,7 +30,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240825_a-anderson.jpg",
                 "player_name": "Angelina Anderson",
                 "player_number": "19",
-                "player_type": "Goalkeepers",
+                "player_type": "GK",
+                "player_team": "LA",
                 "player_birthdate": "2001-03-22"
             },
             {
@@ -36,7 +39,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/16879_a-riley.jpg",
                 "player_name": "Ali Riley",
                 "player_number": "5",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "LA",
                 "player_birthdate": "1987-10-30"
             },
             {
@@ -44,7 +48,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240826_m-reid.jpg",
                 "player_name": "Morgan Reid",
                 "player_number": "6",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "LA",
                 "player_birthdate": "1996-07-08"
             },
             {
@@ -52,7 +57,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232613_s-gorden.jpg",
                 "player_name": "Sarah Gorden",
                 "player_number": "11",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "LA",
                 "player_birthdate": "1992-09-13"
             },
             {
@@ -60,7 +66,8 @@
                 "player_image": "",
                 "player_name": "Merritt Mathias",
                 "player_number": "12",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "LA",
                 "player_birthdate": "1990-07-02"
             },
             {
@@ -68,7 +75,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232662_p-nielsen.jpg",
                 "player_name": "Paige Nielsen",
                 "player_number": "14",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "LA",
                 "player_birthdate": "1993-10-14"
             },
             {
@@ -76,7 +84,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240827_m-vignola.jpg",
                 "player_name": "Mary Vignola",
                 "player_number": "16",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "LA",
                 "player_birthdate": "1998-02-11"
             },
             {
@@ -84,7 +93,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/246114_k-hill.jpg",
                 "player_name": "Kelsey Hill",
                 "player_number": "36",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "LA",
                 "player_birthdate": ""
             },
             {
@@ -92,7 +102,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232762_m-hammond.jpg",
                 "player_name": "Madison Hammond",
                 "player_number": "99",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "LA",
                 "player_birthdate": "1997-11-15"
             },
             {
@@ -100,7 +111,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232630_s-mccaskill.jpg",
                 "player_name": "Savannah McCaskill",
                 "player_number": "9",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "LA",
                 "player_birthdate": "1996-07-31"
             },
             {
@@ -108,7 +120,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232767_d-weatherholt.jpg",
                 "player_name": "Dani Weatherholt",
                 "player_number": "17",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "LA",
                 "player_birthdate": "1994-03-17"
             },
             {
@@ -116,7 +129,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240828_a-thompson.jpg",
                 "player_name": "Alyssa Thompson",
                 "player_number": "21",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "LA",
                 "player_birthdate": "2004-11-07"
             },
             {
@@ -124,7 +138,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240829_m-pluck.jpg",
                 "player_name": "Mackenzie Pluck",
                 "player_number": "24",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "LA",
                 "player_birthdate": "2000-04-12"
             },
             {
@@ -132,7 +147,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/17125_a-henry.jpg",
                 "player_name": "Amandine Henry",
                 "player_number": "26",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "LA",
                 "player_birthdate": "1989-09-28"
             },
             {
@@ -140,7 +156,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240830_l-nabet.jpg",
                 "player_name": "Lily Nabet",
                 "player_number": "28",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "LA",
                 "player_birthdate": "1999-09-24"
             },
             {
@@ -148,7 +165,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232796_e-eddy.jpg",
                 "player_name": "Elizabeth Eddy",
                 "player_number": "44",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "LA",
                 "player_birthdate": "1991-09-13"
             },
             {
@@ -156,7 +174,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/233300_s-leroux.jpg",
                 "player_name": "Sydney Leroux",
                 "player_number": "2",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "LA",
                 "player_birthdate": "1990-05-07"
             },
             {
@@ -164,7 +183,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232776_j-spencer.jpg",
                 "player_name": "Jasmyne Spencer",
                 "player_number": "3",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "LA",
                 "player_birthdate": "1990-08-27"
             },
             {
@@ -172,7 +192,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232559_s-charley.jpg",
                 "player_name": "Simone Charley",
                 "player_number": "7",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "LA",
                 "player_birthdate": "1995-02-04"
             },
             {
@@ -180,7 +201,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/233293_c-emslie.jpg",
                 "player_name": "Claire Emslie",
                 "player_number": "10",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "LA",
                 "player_birthdate": "1994-03-08"
             },
             {
@@ -188,7 +210,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240831_s-camberos.jpg",
                 "player_name": "Scarlett Camberos",
                 "player_number": "15",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "LA",
                 "player_birthdate": "2000-11-20"
             },
             {
@@ -196,7 +219,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240832_j-endo.jpg",
                 "player_name": "Jun Endo",
                 "player_number": "18",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "LA",
                 "player_birthdate": "2000-05-24"
             },
             {
@@ -204,7 +228,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240833_c-press.jpg",
                 "player_name": "Christen Press",
                 "player_number": "23",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "LA",
                 "player_birthdate": "1988-12-29"
             },
             {
@@ -212,7 +237,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240834_c-le-bihan.jpg",
                 "player_name": "Clarisse Le Bihan",
                 "player_number": "29",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "LA",
                 "player_birthdate": "1994-12-14"
             },
             {
@@ -220,7 +246,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232632_k-johnson.jpg",
                 "player_name": "Katie Johnson",
                 "player_number": "33",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "LA",
                 "player_birthdate": "1994-09-14"
             }
         ]
@@ -247,7 +274,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232606_a-naeher.jpg",
                 "player_name": "Alyssa Naeher",
                 "player_number": "1",
-                "player_type": "Goalkeepers",
+                "player_type": "GK",
+                "player_team": "CHI",
                 "player_birthdate": "1988-04-20"
             },
             {
@@ -255,7 +283,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232607_e-boyd.jpg",
                 "player_name": "Emily Boyd",
                 "player_number": "21",
-                "player_type": "Goalkeepers",
+                "player_type": "GK",
+                "player_team": "CHI",
                 "player_birthdate": "1996-07-25"
             },
             {
@@ -263,7 +292,8 @@
                 "player_image": "",
                 "player_name": "Kelsey Dossey",
                 "player_number": "",
-                "player_type": "Goalkeepers",
+                "player_type": "GK",
+                "player_team": "CHI",
                 "player_birthdate": "1996-07-13"
             },
             {
@@ -271,7 +301,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232610_a-wright.jpg",
                 "player_name": "Arin Wright",
                 "player_number": "3",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "CHI",
                 "player_birthdate": "1992-12-25"
             },
             {
@@ -279,7 +310,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232611_c-krueger.jpg",
                 "player_name": "Casey Krueger",
                 "player_number": "6",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "CHI",
                 "player_birthdate": "1990-08-23"
             },
             {
@@ -287,7 +319,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232614_t-davidson.jpg",
                 "player_name": "Tierna Davidson",
                 "player_number": "12",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "CHI",
                 "player_birthdate": "1998-09-19"
             },
             {
@@ -295,7 +328,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232621_b-st-georges.jpg",
                 "player_name": "Bianca St-Georges",
                 "player_number": "22",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "CHI",
                 "player_birthdate": "1997-07-28"
             },
             {
@@ -303,7 +337,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240648_t-milazzo.jpg",
                 "player_name": "Tatumn Milazzo",
                 "player_number": "23",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "CHI",
                 "player_birthdate": "1998-04-17"
             },
             {
@@ -311,7 +346,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232615_k-sharples.jpg",
                 "player_name": "Kayla Sharples",
                 "player_number": "28",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "CHI",
                 "player_birthdate": "1997-06-17"
             },
             {
@@ -319,7 +355,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240649_a-kowalski.jpg",
                 "player_name": "Amanda Kowalski",
                 "player_number": "31",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "CHI",
                 "player_birthdate": "1998-01-09"
             },
             {
@@ -327,7 +364,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240650_s-fisher.jpg",
                 "player_name": "Samantha Fisher",
                 "player_number": "2",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "CHI",
                 "player_birthdate": "1999-08-26"
             },
             {
@@ -335,7 +373,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232832_c-roccaro.jpg",
                 "player_name": "Cari Roccaro",
                 "player_number": "4",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "CHI",
                 "player_birthdate": "1994-07-18"
             },
             {
@@ -343,7 +382,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240651_julia-bianchi.jpg",
                 "player_name": "Julia Bianchi",
                 "player_number": "5",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "CHI",
                 "player_birthdate": "1997-10-07"
             },
             {
@@ -351,7 +391,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240652_a-mccain.jpg",
                 "player_name": "Addie McCain",
                 "player_number": "13",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "CHI",
                 "player_birthdate": "1999-08-28"
             },
             {
@@ -359,7 +400,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240653_j-aguilera.jpg",
                 "player_name": "Jillienne Aguilera",
                 "player_number": "14",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "CHI",
                 "player_birthdate": "1998-01-05"
             },
             {
@@ -367,7 +409,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240654_s-jones.jpg",
                 "player_name": "Sophie Jones",
                 "player_number": "16",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "CHI",
                 "player_birthdate": "2001-07-17"
             },
             {
@@ -375,7 +418,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240656_s-feller.jpg",
                 "player_name": "Sami Feller",
                 "player_number": "29",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "CHI",
                 "player_birthdate": ""
             },
             {
@@ -383,7 +427,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240657_t-malham.jpg",
                 "player_name": "Taylor Malham",
                 "player_number": "32",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "CHI",
                 "player_birthdate": "1999-05-20"
             },
             {
@@ -391,7 +436,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/16544_y-nagasato.jpg",
                 "player_name": "Yuki Nagasato",
                 "player_number": "7",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "CHI",
                 "player_birthdate": "1987-07-15"
             },
             {
@@ -399,7 +445,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232627_e-stevens.jpg",
                 "player_name": "Ella Stevens",
                 "player_number": "8",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "CHI",
                 "player_birthdate": "1997-12-11"
             },
             {
@@ -407,7 +454,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232801_m-swanson.jpg",
                 "player_name": "Mal Swanson",
                 "player_number": "9",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "CHI",
                 "player_birthdate": "1998-04-29"
             },
             {
@@ -415,7 +463,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240658_s-griffith.jpg",
                 "player_name": "Sarah Griffith",
                 "player_number": "15",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "CHI",
                 "player_birthdate": "1999-04-30"
             },
             {
@@ -423,7 +472,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232681_c-matthews.jpg",
                 "player_name": "Cheyna Matthews",
                 "player_number": "20",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "CHI",
                 "player_birthdate": "1993-11-10"
             },
             {
@@ -431,7 +481,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240659_j-bike.jpg",
                 "player_name": "Jenna Bike",
                 "player_number": "24",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "CHI",
                 "player_birthdate": "1998-02-02"
             },
             {
@@ -439,7 +490,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240660_a-cook.jpg",
                 "player_name": "Ava Cook",
                 "player_number": "25",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "CHI",
                 "player_birthdate": "1998-10-03"
             },
             {
@@ -447,7 +499,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240662_a-schlegel.jpg",
                 "player_name": "Allyson Schlegel",
                 "player_number": "34",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "CHI",
                 "player_birthdate": "2000-02-07"
             },
             {
@@ -455,7 +508,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240663_p-hocking.jpg",
                 "player_name": "Penelope Hocking",
                 "player_number": "55",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "CHI",
                 "player_birthdate": "1999-12-29"
             }
         ]
@@ -473,7 +527,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232580_j-campbell.jpg",
                 "player_name": "Jane Campbell",
                 "player_number": "1",
-                "player_type": "Goalkeepers",
+                "player_type": "GK",
+                "player_team": "HOU",
                 "player_birthdate": "1995-02-17"
             },
             {
@@ -481,7 +536,8 @@
                 "player_image": "",
                 "player_name": "Devon Kerr",
                 "player_number": "20",
-                "player_type": "Goalkeepers",
+                "player_type": "GK",
+                "player_team": "HOU",
                 "player_birthdate": "1997-07-03"
             },
             {
@@ -489,7 +545,8 @@
                 "player_image": "",
                 "player_name": "Ella Dederick",
                 "player_number": "33",
-                "player_type": "Goalkeepers",
+                "player_type": "GK",
+                "player_team": "HOU",
                 "player_birthdate": "1996-07-27"
             },
             {
@@ -497,7 +554,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240683_s-madden.jpg",
                 "player_name": "Savannah Madden",
                 "player_number": "35",
-                "player_type": "Goalkeepers",
+                "player_type": "GK",
+                "player_team": "HOU",
                 "player_birthdate": "1999-02-02"
             },
             {
@@ -505,7 +563,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240684_e-alvarado.jpg",
                 "player_name": "Emily Alvarado",
                 "player_number": "99",
-                "player_type": "Goalkeepers",
+                "player_type": "GK",
+                "player_team": "HOU",
                 "player_birthdate": "1998-06-09"
             },
             {
@@ -513,7 +572,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232587_a-chapman.jpg",
                 "player_name": "Allysha Chapman",
                 "player_number": "2",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "HOU",
                 "player_birthdate": "1989-01-25"
             },
             {
@@ -521,7 +581,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232784_c-dydasco.jpg",
                 "player_name": "Caprice Dydasco",
                 "player_number": "3",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "HOU",
                 "player_birthdate": "1993-08-19"
             },
             {
@@ -529,7 +590,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232659_n-jacobs.jpg",
                 "player_name": "Natalie Jacobs",
                 "player_number": "4",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "HOU",
                 "player_birthdate": "1997-08-16"
             },
             {
@@ -537,7 +599,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/233298_c-petersen.jpg",
                 "player_name": "Courtney Petersen",
                 "player_number": "5",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "HOU",
                 "player_birthdate": "1997-10-28"
             },
             {
@@ -545,7 +608,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240685_m-alozie.jpg",
                 "player_name": "Michelle Alozie",
                 "player_number": "22",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "HOU",
                 "player_birthdate": "1997-04-28"
             },
             {
@@ -553,7 +617,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232593_a-prisock.jpg",
                 "player_name": "Ally Prisock",
                 "player_number": "23",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "HOU",
                 "player_birthdate": "1997-01-18"
             },
             {
@@ -561,7 +626,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232596_k-lind.jpg",
                 "player_name": "Katie Lind",
                 "player_number": "25",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "HOU",
                 "player_birthdate": "1994-02-15"
             },
             {
@@ -569,7 +635,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240687_m-desiano.jpg",
                 "player_name": "Madelyn Desiano",
                 "player_number": "31",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "HOU",
                 "player_birthdate": "2000-02-18"
             },
             {
@@ -577,7 +644,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240688_l-jennings.jpg",
                 "player_name": "Lindsi Jennings",
                 "player_number": "36",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "HOU",
                 "player_birthdate": ""
             },
             {
@@ -585,7 +653,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240689_j-harris.jpg",
                 "player_name": "Jyllissa Harris",
                 "player_number": "37",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "HOU",
                 "player_birthdate": "2000-04-08"
             },
             {
@@ -593,7 +662,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240690_h-solaun.jpg",
                 "player_name": "Havana Solaun",
                 "player_number": "6",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "HOU",
                 "player_birthdate": "1993-02-23"
             },
             {
@@ -601,7 +671,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232591_s-groom.jpg",
                 "player_name": "Shea Groom",
                 "player_number": "10",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "HOU",
                 "player_birthdate": "1993-03-04"
             },
             {
@@ -609,7 +680,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/16766_s-schmidt.jpg",
                 "player_name": "Sophie Schmidt",
                 "player_number": "13",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "HOU",
                 "player_birthdate": "1988-06-28"
             },
             {
@@ -617,7 +689,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/233296_m-viggiano.jpg",
                 "player_name": "Marisa Viggiano",
                 "player_number": "14",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "HOU",
                 "player_birthdate": "1997-02-05"
             },
             {
@@ -625,7 +698,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240691_b-olivieri.jpg",
                 "player_name": "BÃ¡rbara Olivieri",
                 "player_number": "15",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "HOU",
                 "player_birthdate": "2002-02-24"
             },
             {
@@ -633,7 +707,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/250709_s-puntigam.jpg",
                 "player_name": "Sarah Puntigam",
                 "player_number": "17",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "HOU",
                 "player_birthdate": "1992-10-13"
             },
             {
@@ -641,7 +716,8 @@
                 "player_image": "",
                 "player_name": "Emily Curran",
                 "player_number": "18",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "HOU",
                 "player_birthdate": "1996-08-05"
             },
             {
@@ -649,7 +725,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240692_m-gomera-stevens.jpg",
                 "player_name": "Makamae Gomera-Stevens",
                 "player_number": "26",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "HOU",
                 "player_birthdate": "1999-03-17"
             },
             {
@@ -657,7 +734,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240693_j-anderson.jpg",
                 "player_name": "Joelle Anderson",
                 "player_number": "29",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "HOU",
                 "player_birthdate": "1998-10-06"
             },
             {
@@ -665,7 +743,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240694_s-hirst.jpg",
                 "player_name": "Sophie Hirst",
                 "player_number": "30",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "HOU",
                 "player_birthdate": "2000-02-25"
             },
             {
@@ -673,7 +752,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/245411_andressa-alves.jpg",
                 "player_name": "Andressa Alves",
                 "player_number": "77",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "HOU",
                 "player_birthdate": "1992-11-10"
             },
             {
@@ -681,7 +761,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232768_k-hedge.jpg",
                 "player_name": "Kelcie Hedge",
                 "player_number": "",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "HOU",
                 "player_birthdate": "1997-09-19"
             },
             {
@@ -689,7 +770,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240695_m-sanchez.jpg",
                 "player_name": "María Sánchez",
                 "player_number": "7",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "HOU",
                 "player_birthdate": "1996-02-20"
             },
             {
@@ -697,7 +779,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232597_n-prince.jpg",
                 "player_name": "Nichelle Prince",
                 "player_number": "8",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "HOU",
                 "player_birthdate": "1995-02-19"
             },
             {
@@ -705,7 +788,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240697_d-ordonez.jpg",
                 "player_name": "Diana Ordóñez",
                 "player_number": "11",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "HOU",
                 "player_birthdate": "2001-09-26"
             },
             {
@@ -713,7 +797,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240698_r-gareis.jpg",
                 "player_name": "Ryan Gareis",
                 "player_number": "21",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "HOU",
                 "player_birthdate": "1998-11-13"
             },
             {
@@ -721,7 +806,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240699_c-tucker.jpg",
                 "player_name": "Cameron Tucker",
                 "player_number": "39",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "HOU",
                 "player_birthdate": "1999-07-15"
             }
         ]
@@ -739,7 +825,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232538_a-franch.jpg",
                 "player_name": "Adrianna Franch",
                 "player_number": "21",
-                "player_type": "Goalkeepers",
+                "player_type": "GK",
+                "player_team": "KC",
                 "player_birthdate": "1990-11-12"
             },
             {
@@ -747,7 +834,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240664_j-silkowitz.jpg",
                 "player_name": "Jordan Silkowitz",
                 "player_number": "29",
-                "player_type": "Goalkeepers",
+                "player_type": "GK",
+                "player_team": "KC",
                 "player_birthdate": ""
             },
             {
@@ -755,7 +843,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232609_c-miller.jpg",
                 "player_name": "Cassie Miller",
                 "player_number": "38",
-                "player_type": "Goalkeepers",
+                "player_type": "GK",
+                "player_team": "KC",
                 "player_birthdate": "1995-04-28"
             },
             {
@@ -763,7 +852,8 @@
                 "player_image": "",
                 "player_name": "Hanna Glas",
                 "player_number": "3",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "KC",
                 "player_birthdate": "1993-04-16"
             },
             {
@@ -771,7 +861,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240666_e-ball.jpg",
                 "player_name": "Elizabeth Ball",
                 "player_number": "7",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "KC",
                 "player_birthdate": "1995-10-19"
             },
             {
@@ -779,7 +870,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240667_k-del-fava.jpg",
                 "player_name": "Kate Del Fava",
                 "player_number": "8",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "KC",
                 "player_birthdate": "1998-07-23"
             },
             {
@@ -787,7 +879,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/242350_s-ballisager.jpg",
                 "player_name": "Stine Ballisager",
                 "player_number": "12",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "KC",
                 "player_birthdate": "1994-01-03"
             },
             {
@@ -795,7 +888,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240668_i-rodriguez.jpg",
                 "player_name": "Isabel Rodriguez",
                 "player_number": "18",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "KC",
                 "player_birthdate": "1999-04-13"
             },
             {
@@ -803,7 +897,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240669_j-winebrenner.jpg",
                 "player_name": "Jenna Winebrenner",
                 "player_number": "19",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "KC",
                 "player_birthdate": "1999-03-01"
             },
             {
@@ -811,7 +906,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240670_m-weber.jpg",
                 "player_name": "Mallory Weber",
                 "player_number": "20",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "KC",
                 "player_birthdate": "1994-04-04"
             },
             {
@@ -819,7 +915,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240671_a-loera.jpg",
                 "player_name": "Alexis Loera",
                 "player_number": "22",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "KC",
                 "player_birthdate": "1999-06-19"
             },
             {
@@ -827,7 +924,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240672_c-soto.jpg",
                 "player_name": "Croix Soto",
                 "player_number": "23",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "KC",
                 "player_birthdate": ""
             },
             {
@@ -835,7 +933,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240673_g-robinson.jpg",
                 "player_name": "Gabrielle Robinson",
                 "player_number": "24",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "KC",
                 "player_birthdate": ""
             },
             {
@@ -843,7 +942,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232825_a-merrick.jpg",
                 "player_name": "Addisyn Merrick",
                 "player_number": "26",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "KC",
                 "player_birthdate": "1998-03-04"
             },
             {
@@ -851,7 +951,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/245409_lauren.jpg",
                 "player_name": "Lauren",
                 "player_number": "78",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "KC",
                 "player_birthdate": "2002-09-13"
             },
             {
@@ -859,7 +960,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232624_m-gautrat.jpg",
                 "player_name": "Morgan Gautrat",
                 "player_number": "2",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "KC",
                 "player_birthdate": "1993-02-26"
             },
             {
@@ -867,7 +969,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232840_h-mace.jpg",
                 "player_name": "Hailie Mace",
                 "player_number": "4",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "KC",
                 "player_birthdate": "1997-03-24"
             },
             {
@@ -875,7 +978,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240674_r-childers.jpg",
                 "player_name": "Ryan Childers",
                 "player_number": "6",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "KC",
                 "player_birthdate": ""
             },
             {
@@ -883,7 +987,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240675_l-labonta.jpg",
                 "player_name": "Lo'eau LaBonta",
                 "player_number": "10",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "KC",
                 "player_birthdate": "1993-03-18"
             },
             {
@@ -891,7 +996,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240676_d-scott.jpg",
                 "player_name": "Desiree Scott",
                 "player_number": "11",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "KC",
                 "player_birthdate": "1987-07-31"
             },
             {
@@ -899,7 +1005,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240677_c-curran.jpg",
                 "player_name": "Chardonnay Curran",
                 "player_number": "14",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "KC",
                 "player_birthdate": "1999-08-18"
             },
             {
@@ -907,7 +1014,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232828_s-mewis.jpg",
                 "player_name": "Sam Mewis",
                 "player_number": "15",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "KC",
                 "player_birthdate": "1992-10-09"
             },
             {
@@ -915,7 +1023,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232623_v-dibernardo.jpg",
                 "player_name": "Vanessa DiBernardo",
                 "player_number": "16",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "KC",
                 "player_birthdate": "1992-05-15"
             },
             {
@@ -923,7 +1032,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240678_c-lavogez.jpg",
                 "player_name": "Claire Lavogez",
                 "player_number": "94",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "KC",
                 "player_birthdate": "1994-06-18"
             },
             {
@@ -931,7 +1041,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232830_debinha.jpg",
                 "player_name": "Debinha",
                 "player_number": "99",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "KC",
                 "player_birthdate": "1991-10-20"
             },
             {
@@ -939,7 +1050,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232589_c-kizer.jpg",
                 "player_name": "Cecelia Kizer",
                 "player_number": "5",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "KC",
                 "player_birthdate": "1997-08-07"
             },
             {
@@ -947,7 +1059,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240679_m-larsson.jpg",
                 "player_name": "Mimmi Larsson",
                 "player_number": "9",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "KC",
                 "player_birthdate": "1994-04-09"
             },
             {
@@ -955,7 +1068,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240680_m-cooper.jpg",
                 "player_name": "Michelle Cooper",
                 "player_number": "17",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "KC",
                 "player_birthdate": "2002-12-04"
             },
             {
@@ -963,7 +1077,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232838_k-hamilton.jpg",
                 "player_name": "Kristen Hamilton",
                 "player_number": "25",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "KC",
                 "player_birthdate": "1992-04-17"
             },
             {
@@ -971,7 +1086,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240681_a-spaanstra.jpg",
                 "player_name": "Alexa Spaanstra",
                 "player_number": "77",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "KC",
                 "player_birthdate": "2000-02-01"
             }
         ]
@@ -989,7 +1105,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232751_m-betos.jpg",
                 "player_name": "Michelle Betos",
                 "player_number": "1",
-                "player_type": "Goalkeepers",
+                "player_type": "GK",
+                "player_team": "NJY",
                 "player_birthdate": "1988-02-20"
             },
             {
@@ -997,7 +1114,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/241098_a-smith.jpg",
                 "player_name": "Autumn Smithers",
                 "player_number": "4",
-                "player_type": "Goalkeepers",
+                "player_type": "GK",
+                "player_team": "NJY",
                 "player_birthdate": "1993-10-04"
             },
             {
@@ -1005,7 +1123,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232781_m-haught.jpg",
                 "player_name": "Mandy Haught",
                 "player_number": "24",
-                "player_type": "Goalkeepers",
+                "player_type": "GK",
+                "player_team": "NJY",
                 "player_birthdate": "1998-11-03"
             },
             {
@@ -1013,7 +1132,8 @@
                 "player_image": "",
                 "player_name": "Meagan McClelland",
                 "player_number": "",
-                "player_type": "Goalkeepers",
+                "player_type": "GK",
+                "player_team": "NJY",
                 "player_birthdate": "2000-08-05"
             },
             {
@@ -1021,7 +1141,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232804_i-dorsey.jpg",
                 "player_name": "Imani Dorsey",
                 "player_number": "2",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "NJY",
                 "player_birthdate": "1996-03-21"
             },
             {
@@ -1029,7 +1150,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/241100_bruninha.jpg",
                 "player_name": "Bruninha",
                 "player_number": "3",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "NJY",
                 "player_birthdate": "2002-06-16"
             },
             {
@@ -1037,7 +1159,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/241101_k-oaposhara.jpg",
                 "player_name": "Kelley O'Hara",
                 "player_number": "5",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "NJY",
                 "player_birthdate": "1988-08-04"
             },
             {
@@ -1045,7 +1168,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/20144_a-krieger.jpg",
                 "player_name": "Ali Krieger",
                 "player_number": "11",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "NJY",
                 "player_birthdate": "1984-07-28"
             },
             {
@@ -1053,7 +1177,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/15864_k-edmonds.jpg",
                 "player_name": "Kristen Edmonds",
                 "player_number": "12",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "NJY",
                 "player_birthdate": "1987-05-22"
             },
             {
@@ -1061,7 +1186,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/241102_n-martin.jpg",
                 "player_name": "Nealy Martin",
                 "player_number": "14",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "NJY",
                 "player_birthdate": "1998-04-22"
             },
             {
@@ -1069,7 +1195,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232466_s-flores.jpg",
                 "player_name": "Sabrina Flores",
                 "player_number": "15",
-                "player_type": "Defenders",
+                "player_team": "NJY",
+                "player_type": "DEF",
                 "player_birthdate": "1996-01-31"
             },
             {
@@ -1077,7 +1204,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232760_t-smith.jpg",
                 "player_name": "Taylor Smith",
                 "player_number": "20",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "NJY",
                 "player_birthdate": "1993-12-01"
             },
             {
@@ -1085,7 +1213,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/241103_e-jean.jpg",
                 "player_name": "Ellie Jean",
                 "player_number": "21",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "NJY",
                 "player_birthdate": "1997-01-31"
             },
             {
@@ -1093,7 +1222,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232790_m-freeman.jpg",
                 "player_name": "Mandy Freeman",
                 "player_number": "22",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "NJY",
                 "player_birthdate": "1995-03-23"
             },
             {
@@ -1101,7 +1231,8 @@
                 "player_image": "",
                 "player_name": "Annika Creel",
                 "player_number": "",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "NJY",
                 "player_birthdate": "1997-07-14"
             },
             {
@@ -1109,7 +1240,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232765_a-long.jpg",
                 "player_name": "Allie Long",
                 "player_number": "6",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "NJY",
                 "player_birthdate": "1987-08-13"
             },
             {
@@ -1117,7 +1249,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232793_m-zerboni.jpg",
                 "player_name": "McCall Zerboni",
                 "player_number": "7",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "NJY",
                 "player_birthdate": "1986-12-13"
             },
             {
@@ -1125,7 +1258,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/241104_t-torres.jpg",
                 "player_name": "Taryn Torres",
                 "player_number": "8",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "NJY",
                 "player_birthdate": "1999-04-23"
             },
             {
@@ -1133,7 +1267,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232800_n-kawasumi.jpg",
                 "player_name": "Nahomi Kawasumi",
                 "player_number": "9",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "NJY",
                 "player_birthdate": "1985-09-23"
             },
             {
@@ -1141,7 +1276,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/245360_m-shim.jpg",
                 "player_name": "Meleana Shim",
                 "player_number": "13",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "NJY",
                 "player_birthdate": "1991-09-25"
             },
             {
@@ -1149,7 +1285,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/241105_d-sheehan.jpg",
                 "player_name": "Delanie Sheehan",
                 "player_number": "17",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "NJY",
                 "player_birthdate": "1999-01-13"
             },
             {
@@ -1157,7 +1294,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/241106_y-ryan.jpg",
                 "player_name": "Yazmeen Ryan",
                 "player_number": "18",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "NJY",
                 "player_birthdate": "1999-02-25"
             },
             {
@@ -1165,7 +1303,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232603_k-mewis.jpg",
                 "player_name": "Kristie Mewis",
                 "player_number": "19",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "NJY",
                 "player_birthdate": "1991-02-25"
             },
             {
@@ -1173,7 +1312,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/241107_j-nighswonger.jpg",
                 "player_name": "Jenna Nighswonger",
                 "player_number": "32",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "NJY",
                 "player_birthdate": "2000-11-28"
             },
             {
@@ -1181,7 +1321,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/241108_s-farrelly.jpg",
                 "player_name": "Sinead Farrelly",
                 "player_number": "33",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "NJY",
                 "player_birthdate": "1989-11-16"
             },
             {
@@ -1189,7 +1330,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232271_maitane-lopez.jpg",
                 "player_name": "Maitane López",
                 "player_number": "77",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "NJY",
                 "player_birthdate": "1995-03-13"
             },
             {
@@ -1197,7 +1339,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232835_l-williams.jpg",
                 "player_name": "Lydia Williams",
                 "player_number": "10",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "NJY",
                 "player_birthdate": "1993-05-21"
             },
             {
@@ -1205,7 +1348,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232797_m-purce.jpg",
                 "player_name": "Midge Purce",
                 "player_number": "23",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "NJY",
                 "player_birthdate": "1995-09-18"
             },
             {
@@ -1213,7 +1357,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232803_i-onumonu.jpg",
                 "player_name": "Ifeoma Onumonu",
                 "player_number": "25",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "NJY",
                 "player_birthdate": "1994-02-25"
             },
             {
@@ -1221,7 +1366,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232595_k-stengel.jpg",
                 "player_name": "Katie Stengel",
                 "player_number": "28",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "NJY",
                 "player_birthdate": "1992-02-29"
             },
             {
@@ -1229,7 +1375,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/245361_c-hintzen.jpg",
                 "player_name": "Cyera Hintzen",
                 "player_number": "30",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "NJY",
                 "player_birthdate": "1997-10-28"
             },
             {
@@ -1237,7 +1384,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232281_esther-gonzalez.jpg",
                 "player_name": "Esther González",
                 "player_number": "",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "NJY",
                 "player_birthdate": "1992-12-08"
             }
         ]
@@ -1255,7 +1403,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232752_c-murphy.jpg",
                 "player_name": "Casey Murphy",
                 "player_number": "1",
-                "player_type": "Goalkeepers",
+                "player_type": "GK",
+                "player_team": "NC",
                 "player_birthdate": "1996-04-25"
             },
             {
@@ -1263,7 +1412,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240613_m-bova.jpg",
                 "player_name": "Marisa Bova",
                 "player_number": "44",
-                "player_type": "Goalkeepers",
+                "player_type": "GK",
+                "player_team": "NC",
                 "player_birthdate": "2000-08-06"
             },
             {
@@ -1271,7 +1421,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232819_k-rowland.jpg",
                 "player_name": "Katelyn Rowland",
                 "player_number": "98",
-                "player_type": "Goalkeepers",
+                "player_type": "GK",
+                "player_team": "NC",
                 "player_birthdate": "1994-03-16"
             },
             {
@@ -1279,7 +1430,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240618_s-clark.jpg",
                 "player_name": "Sarah Clark",
                 "player_number": "2",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "NC",
                 "player_birthdate": ""
             },
             {
@@ -1287,7 +1439,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232820_k-kurtz.jpg",
                 "player_name": "Kaleigh Kurtz",
                 "player_number": "3",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "NC",
                 "player_birthdate": "1994-09-09"
             },
             {
@@ -1295,7 +1448,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240614_m-berkely.jpg",
                 "player_name": "Malia Berkely",
                 "player_number": "7",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "NC",
                 "player_birthdate": "1998-02-13"
             },
             {
@@ -1303,7 +1457,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240615_e-fox.jpg",
                 "player_name": "Emily Fox",
                 "player_number": "12",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "NC",
                 "player_birthdate": "1998-07-05"
             },
             {
@@ -1311,7 +1466,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232831_r-williams.jpg",
                 "player_name": "Ryan Williams",
                 "player_number": "13",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "NC",
                 "player_birthdate": "1996-02-23"
             },
             {
@@ -1319,7 +1475,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240616_s-collins.jpg",
                 "player_name": "Sydney Collins",
                 "player_number": "18",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "NC",
                 "player_birthdate": "1999-09-08"
             },
             {
@@ -1327,7 +1484,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240619_n-smith.jpg",
                 "player_name": "Nikia Smith",
                 "player_number": "21",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "NC",
                 "player_birthdate": ""
             },
             {
@@ -1335,7 +1493,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240617_k-pickett.jpg",
                 "player_name": "Kiara Pickett",
                 "player_number": "23",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "NC",
                 "player_birthdate": "1999-04-30"
             },
             {
@@ -1343,7 +1502,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232788_e-johnson.jpg",
                 "player_name": "Estelle Johnson",
                 "player_number": "24",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "NC",
                 "player_birthdate": "1988-07-21"
             },
             {
@@ -1351,7 +1511,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240620_e-gray.jpg",
                 "player_name": "Emily Gray",
                 "player_number": "4",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "NC",
                 "player_birthdate": "2000-10-05"
             },
             {
@@ -1359,7 +1520,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240621_n-miura.jpg",
                 "player_name": "Narumi Miura",
                 "player_number": "6",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "NC",
                 "player_birthdate": "1997-07-03"
             },
             {
@@ -1367,7 +1529,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240622_b-pinto.jpg",
                 "player_name": "Brianna Pinto",
                 "player_number": "8",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "NC",
                 "player_birthdate": "2000-05-24"
             },
             {
@@ -1375,7 +1538,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232829_d-oapossullivan.jpg",
                 "player_name": "Denise O'Sullivan",
                 "player_number": "10",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "NC",
                 "player_birthdate": "1994-02-04"
             },
             {
@@ -1383,7 +1547,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240623_f-tagliaferri.jpg",
                 "player_name": "Frankie Tagliaferri",
                 "player_number": "19",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "NC",
                 "player_birthdate": "1999-01-18"
             },
             {
@@ -1391,7 +1556,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232833_m-speck.jpg",
                 "player_name": "Mariana Speckmaier",
                 "player_number": "25",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "NC",
                 "player_birthdate": "1993-02-01"
             },
             {
@@ -1399,7 +1565,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240624_c-robbins.jpg",
                 "player_name": "Clara Robbins",
                 "player_number": "26",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "NC",
                 "player_birthdate": "1998-12-09"
             },
             {
@@ -1407,7 +1574,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240625_t-boade.jpg",
                 "player_name": "Tess Boade",
                 "player_number": "28",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "NC",
                 "player_birthdate": "1999-02-03"
             },
             {
@@ -1415,7 +1583,8 @@
                 "player_image": "",
                 "player_name": "Manaka Matsukubo",
                 "player_number": "34",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "NC",
                 "player_birthdate": "2004-07-28"
             },
             {
@@ -1423,7 +1592,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240626_v-pickett.jpg",
                 "player_name": "Victoria Pickett",
                 "player_number": "99",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "NC",
                 "player_birthdate": "1996-08-12"
             },
             {
@@ -1431,7 +1601,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240627_h-hopkins.jpg",
                 "player_name": "Haley Hopkins",
                 "player_number": "5",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "NC",
                 "player_birthdate": "1998-12-21"
             },
             {
@@ -1439,7 +1610,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240628_kerolin.jpg",
                 "player_name": "Kerolin",
                 "player_number": "9",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "NC",
                 "player_birthdate": "1999-11-17"
             },
             {
@@ -1447,7 +1619,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240629_b-ratcliffe.jpg",
                 "player_name": "Brittany Ratcliffe",
                 "player_number": "11",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "NC",
                 "player_birthdate": "1994-02-07"
             },
             {
@@ -1455,7 +1628,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232558_t-lussi.jpg",
                 "player_name": "Tyler Lussi",
                 "player_number": "14",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "NC",
                 "player_birthdate": "1995-01-26"
             },
             {
@@ -1463,7 +1637,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240630_r-madsen.jpg",
                 "player_name": "Rikke Marie Madsen",
                 "player_number": "17",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "NC",
                 "player_birthdate": "1997-08-09"
             },
             {
@@ -1471,7 +1646,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240631_o-wingate.jpg",
                 "player_name": "Olivia Wingate",
                 "player_number": "20",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "NC",
                 "player_birthdate": "2000-02-20"
             },
             {
@@ -1479,7 +1655,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/233896_m-gejl.jpg",
                 "player_name": "Mille Gejl",
                 "player_number": "22",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "NC",
                 "player_birthdate": "1999-09-23"
             },
             {
@@ -1487,7 +1664,8 @@
                 "player_image": "",
                 "player_name": "Rikako Kobayashi",
                 "player_number": "",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "NC",
                 "player_birthdate": ""
             }
         ]
@@ -1505,7 +1683,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/239537_a-moorhouse.jpg",
                 "player_name": "Anna Moorhouse",
                 "player_number": "21",
-                "player_type": "Goalkeepers",
+                "player_type": "GK",
+                "player_team": "ORL",
                 "player_birthdate": "1995-03-30"
             },
             {
@@ -1513,7 +1692,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240847_k-collins.jpg",
                 "player_name": "Kaylie Collins",
                 "player_number": "24",
-                "player_type": "Goalkeepers",
+                "player_type": "GK",
+                "player_team": "ORL",
                 "player_birthdate": "1998-05-17"
             },
             {
@@ -1521,7 +1701,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232753_c-nelson.jpg",
                 "player_name": "Carly Nelson",
                 "player_number": "31",
-                "player_type": "Goalkeepers",
+                "player_type": "GK",
+                "player_team": "ORL",
                 "player_birthdate": "1998-02-11"
             },
             {
@@ -1529,7 +1710,8 @@
                 "player_image": "",
                 "player_name": "McKinley Crone",
                 "player_number": "40",
-                "player_type": "Goalkeepers",
+                "player_type": "GK",
+                "player_team": "ORL",
                 "player_birthdate": "1998-10-20"
             },
             {
@@ -1537,7 +1719,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232598_h-mccutcheon.jpg",
                 "player_name": "Haley McCutcheon",
                 "player_number": "2",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "ORL",
                 "player_birthdate": "1996-02-22"
             },
             {
@@ -1545,7 +1728,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232522_k-strom.jpg",
                 "player_name": "Kylie Strom",
                 "player_number": "3",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "ORL",
                 "player_birthdate": "1992-03-18"
             },
             {
@@ -1553,7 +1737,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/235634_rafaelle-souza.jpg",
                 "player_name": "Rafaelle Souza",
                 "player_number": "4",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "ORL",
                 "player_birthdate": "1991-06-18"
             },
             {
@@ -1561,7 +1746,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232588_m-montefusco.jpg",
                 "player_name": "Megan Montefusco",
                 "player_number": "5",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "ORL",
                 "player_birthdate": "1992-09-03"
             },
             {
@@ -1569,7 +1755,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240848_e-madril.jpg",
                 "player_name": "Emily Madril",
                 "player_number": "6",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "ORL",
                 "player_birthdate": "1999-07-01"
             },
             {
@@ -1577,7 +1764,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/233290_c-lawrence.jpg",
                 "player_name": "Carrie Lawrence",
                 "player_number": "12",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "ORL",
                 "player_birthdate": "1997-07-15"
             },
             {
@@ -1585,7 +1773,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232757_celia-jimenez.jpg",
                 "player_name": "Celia Jiménez",
                 "player_number": "13",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "ORL",
                 "player_birthdate": "1995-06-20"
             },
             {
@@ -1593,7 +1782,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240849_t-hansen.jpg",
                 "player_name": "Taylor Hansen",
                 "player_number": "22",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "ORL",
                 "player_birthdate": "2001-01-14"
             },
             {
@@ -1601,7 +1791,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240850_k-abello.jpg",
                 "player_name": "Kerry Abello",
                 "player_number": "25",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "ORL",
                 "player_birthdate": "1999-09-17"
             },
             {
@@ -1609,7 +1800,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240851_c-cosme.jpg",
                 "player_name": "Caitlin Cosme",
                 "player_number": "26",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "ORL",
                 "player_birthdate": "1999-01-19"
             },
             {
@@ -1617,7 +1809,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240852_thais-reiss.jpg",
                 "player_name": "Thais Reiss",
                 "player_number": "30",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "ORL",
                 "player_birthdate": "1999-12-09"
             },
             {
@@ -1625,7 +1818,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240853_b-martinez.jpg",
                 "player_name": "Brianna Martínez",
                 "player_number": "32",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "ORL",
                 "player_birthdate": "2000-04-22"
             },
             {
@@ -1633,7 +1827,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240854_m-cluff.jpg",
                 "player_name": "Mikayla Cluff",
                 "player_number": "8",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "ORL",
                 "player_birthdate": "1999-02-25"
             },
             {
@@ -1641,7 +1836,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240855_v-villacorta.jpg",
                 "player_name": "Viviana Villacorta",
                 "player_number": "14",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "ORL",
                 "player_birthdate": "1999-02-02"
             },
             {
@@ -1649,7 +1845,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240856_e-tymrak.jpg",
                 "player_name": "Erika Tymrak",
                 "player_number": "15",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "ORL",
                 "player_birthdate": "1991-08-07"
             },
             {
@@ -1657,7 +1854,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240857_j-listro.jpg",
                 "player_name": "Jordyn Listro",
                 "player_number": "19",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "ORL",
                 "player_birthdate": "1995-08-10"
             },
             {
@@ -1665,7 +1863,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240858_j-doyle.jpg",
                 "player_name": "Julie Doyle",
                 "player_number": "20",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "ORL",
                 "player_birthdate": "1998-08-30"
             },
             {
@@ -1673,7 +1872,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/243618_m-larroquette.jpg",
                 "player_name": "Mariana Larroquette",
                 "player_number": "7",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "ORL",
                 "player_birthdate": "1992-10-24"
             },
             {
@@ -1681,7 +1881,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240860_adriana.jpg",
                 "player_name": "Adriana",
                 "player_number": "9",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "ORL",
                 "player_birthdate": "1996-11-17"
             },
             {
@@ -1689,7 +1890,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/233301_marta.jpg",
                 "player_name": "Marta",
                 "player_number": "10",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "ORL",
                 "player_birthdate": "1986-02-19"
             },
             {
@@ -1697,7 +1899,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232841_a-watt.jpg",
                 "player_name": "Ally Watt",
                 "player_number": "11",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "ORL",
                 "player_birthdate": "1997-03-12"
             },
             {
@@ -1705,7 +1908,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240861_m-bright.jpg",
                 "player_name": "Messiah Bright",
                 "player_number": "23",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "ORL",
                 "player_birthdate": "2000-01-12"
             },
             {
@@ -1713,7 +1917,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240862_s-yates.jpg",
                 "player_name": "Summer Yates",
                 "player_number": "28",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "ORL",
                 "player_birthdate": "2000-06-17"
             },
             {
@@ -1721,7 +1926,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240863_a-allen.jpg",
                 "player_name": "Amanda Allen",
                 "player_number": "29",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "ORL",
                 "player_birthdate": "2005-02-21"
             },
             {
@@ -1729,7 +1935,8 @@
                 "player_image": "",
                 "player_name": "Meg Morris",
                 "player_number": "36",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "ORL",
                 "player_birthdate": "2000-12-31"
             }
         ]
@@ -1747,7 +1954,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232539_b-bixby.jpg",
                 "player_name": "Bella Bixby",
                 "player_number": "1",
-                "player_type": "Goalkeepers",
+                "player_type": "GK",
+                "player_team": "POR",
                 "player_birthdate": "1995-11-20"
             },
             {
@@ -1755,7 +1963,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/241116_s-hogan.jpg",
                 "player_name": "Shelby Hogan",
                 "player_number": "18",
-                "player_type": "Goalkeepers",
+                "player_type": "GK",
+                "player_team": "POR",
                 "player_birthdate": "1998-05-10"
             },
             {
@@ -1763,7 +1972,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/241117_l-kozal.jpg",
                 "player_name": "Lauren Kozal",
                 "player_number": "28",
-                "player_type": "Goalkeepers",
+                "player_type": "GK",
+                "player_team": "POR",
                 "player_birthdate": "2000-07-11"
             },
             {
@@ -1771,7 +1981,8 @@
                 "player_image": "",
                 "player_name": "Lindsey Harris",
                 "player_number": "",
-                "player_type": "Goalkeepers",
+                "player_type": "GK",
+                "player_team": "POR",
                 "player_birthdate": "1993-11-19"
             },
             {
@@ -1779,7 +1990,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/241118_r-reyes.jpg",
                 "player_name": "Reyna Reyes",
                 "player_number": "2",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "POR",
                 "player_birthdate": "2001-02-16"
             },
             {
@@ -1787,7 +1999,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232542_b-sauerbrunn.jpg",
                 "player_name": "Becky Sauerbrunn",
                 "player_number": "4",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "POR",
                 "player_birthdate": "1985-06-06"
             },
             {
@@ -1795,7 +2008,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232543_e-menges.jpg",
                 "player_name": "Emily Menges",
                 "player_number": "5",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "POR",
                 "player_birthdate": "1992-07-28"
             },
             {
@@ -1803,7 +2017,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/241119_n-kuikka.jpg",
                 "player_name": "Natalia Kuikka",
                 "player_number": "14",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "POR",
                 "player_birthdate": "1995-12-01"
             },
             {
@@ -1811,7 +2026,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232546_k-hubly.jpg",
                 "player_name": "Kelli Hubly",
                 "player_number": "20",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "POR",
                 "player_birthdate": "1994-08-09"
             },
             {
@@ -1819,7 +2035,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232547_m-klingenberg.jpg",
                 "player_name": "Meghan Klingenberg",
                 "player_number": "25",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "POR",
                 "player_birthdate": "1988-08-02"
             },
             {
@@ -1827,7 +2044,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232661_t-mcgrady.jpg",
                 "player_name": "Tegan McGrady",
                 "player_number": "29",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "POR",
                 "player_birthdate": "1997-10-11"
             },
             {
@@ -1835,7 +2053,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232549_m-nally.jpg",
                 "player_name": "Meaghan Nally",
                 "player_number": "39",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "POR",
                 "player_birthdate": "1998-06-30"
             },
             {
@@ -1843,7 +2062,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/241120_h-sugita.jpg",
                 "player_name": "Hina Sugita",
                 "player_number": "8",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "POR",
                 "player_birthdate": "1997-01-31"
             },
             {
@@ -1851,7 +2071,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232552_r-rodriguez.jpg",
                 "player_name": "Raquel Rodríguez",
                 "player_number": "11",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "POR",
                 "player_birthdate": "1993-10-28"
             },
             {
@@ -1859,7 +2080,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/241121_o-moultrie.jpg",
                 "player_name": "Olivia Moultrie",
                 "player_number": "13",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "POR",
                 "player_birthdate": "2005-09-17"
             },
             {
@@ -1867,7 +2089,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232622_m-vasconcelos.jpg",
                 "player_name": "Michele Vasconcelos",
                 "player_number": "15",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "POR",
                 "player_birthdate": "1994-05-11"
             },
             {
@@ -1875,7 +2098,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/241122_s-coffey.jpg",
                 "player_name": "Samantha Coffey",
                 "player_number": "17",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "POR",
                 "player_birthdate": "1998-12-31"
             },
             {
@@ -1883,7 +2107,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232837_c-dunn.jpg",
                 "player_name": "Crystal Dunn",
                 "player_number": "19",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "POR",
                 "player_birthdate": "1992-07-03"
             },
             {
@@ -1891,7 +2116,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232557_m-weaver.jpg",
                 "player_name": "Morgan Weaver",
                 "player_number": "22",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "POR",
                 "player_birthdate": "1997-10-18"
             },
             {
@@ -1899,7 +2125,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/241123_g-provenzano.jpg",
                 "player_name": "Gabby Provenzano",
                 "player_number": "44",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "POR",
                 "player_birthdate": "1999-08-07"
             },
             {
@@ -1907,7 +2134,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/241124_t-porter.jpg",
                 "player_name": "Taylor Porter",
                 "player_number": "46",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "POR",
                 "player_birthdate": "1997-10-29"
             },
             {
@@ -1915,7 +2143,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/243490_i-dehakiz.jpg",
                 "player_name": "Isabel Dehakiz",
                 "player_number": "50",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "POR",
                 "player_birthdate": "2000-07-19"
             },
             {
@@ -1923,7 +2152,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232556_s-smith.jpg",
                 "player_name": "Sophia Smith",
                 "player_number": "9",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "POR",
                 "player_birthdate": "2000-08-10"
             },
             {
@@ -1931,7 +2161,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/16756_c-sinclair.jpg",
                 "player_name": "Christine Sinclair",
                 "player_number": "12",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "POR",
                 "player_birthdate": "1983-06-12"
             },
             {
@@ -1939,7 +2170,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/239440_j-beckie.jpg",
                 "player_name": "Janine Beckie",
                 "player_number": "16",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "POR",
                 "player_birthdate": "1994-08-20"
             },
             {
@@ -1947,7 +2179,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/241125_i-daposaquila.jpg",
                 "player_name": "Isabella D'Aquila",
                 "player_number": "24",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "POR",
                 "player_birthdate": "2001-09-08"
             },
             {
@@ -1955,7 +2188,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/241126_h-betfort.jpg",
                 "player_name": "Hannah Betfort",
                 "player_number": "33",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "POR",
                 "player_birthdate": "1999-01-04"
             },
             {
@@ -1963,7 +2197,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/241127_n-beckman.jpg",
                 "player_name": "Natalie Beckman",
                 "player_number": "45",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "POR",
                 "player_birthdate": "2000-03-25"
             }
         ]
@@ -1981,7 +2216,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232656_k-lund.jpg",
                 "player_name": "Katie Lund",
                 "player_number": "1",
-                "player_type": "Goalkeepers",
+                "player_type": "GK",
+                "player_team": "LOU",
                 "player_birthdate": "1996-11-27"
             },
             {
@@ -1989,7 +2225,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240700_h-beall.jpg",
                 "player_name": "Hillary Beall",
                 "player_number": "18",
-                "player_type": "Goalkeepers",
+                "player_type": "GK",
+                "player_team": "LOU",
                 "player_birthdate": "1999-01-27"
             },
             {
@@ -1997,7 +2234,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240701_j-bloomer.jpg",
                 "player_name": "Jordyn Bloomer",
                 "player_number": "24",
-                "player_type": "Goalkeepers",
+                "player_type": "GK",
+                "player_team": "LOU",
                 "player_birthdate": "1997-10-14"
             },
             {
@@ -2005,7 +2243,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240702_o-sekany.jpg",
                 "player_name": "Olivia Sekany",
                 "player_number": "99",
-                "player_type": "Goalkeepers",
+                "player_type": "GK",
+                "player_team": "LOU",
                 "player_birthdate": "1998-12-29"
             },
             {
@@ -2013,7 +2252,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240703_z-wyne.jpg",
                 "player_name": "Zaneta Wyne",
                 "player_number": "3",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "LOU",
                 "player_birthdate": "1990-08-03"
             },
             {
@@ -2021,7 +2261,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240704_e-pikkujamsa.jpg",
                 "player_name": "Elli Pikkujämsä",
                 "player_number": "4",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "LOU",
                 "player_birthdate": "1999-10-24"
             },
             {
@@ -2029,7 +2270,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240705_j-lester.jpg",
                 "player_name": "Julia Lester",
                 "player_number": "15",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "LOU",
                 "player_birthdate": "1998-01-16"
             },
             {
@@ -2037,7 +2279,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/233286_c-pickett.jpg",
                 "player_name": "Carson Pickett",
                 "player_number": "16",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "LOU",
                 "player_birthdate": "1993-09-15"
             },
             {
@@ -2045,7 +2288,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/16869_a-erceg.jpg",
                 "player_name": "Abby Erceg",
                 "player_number": "20",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "LOU",
                 "player_birthdate": "1989-11-20"
             },
             {
@@ -2053,7 +2297,8 @@
                 "player_image": "",
                 "player_name": "Ella Shamburger",
                 "player_number": "",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "LOU",
                 "player_birthdate": "2000-01-18"
             },
             {
@@ -2061,7 +2306,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232834_l-milliet.jpg",
                 "player_name": "Lauren Milliet",
                 "player_number": "2",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "LOU",
                 "player_birthdate": "1996-12-01"
             },
             {
@@ -2069,7 +2315,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240707_j-howell.jpg",
                 "player_name": "Jaelin Howell",
                 "player_number": "6",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "LOU",
                 "player_birthdate": "1999-11-21"
             },
             {
@@ -2077,7 +2324,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240708_s-demelo.jpg",
                 "player_name": "Savannah DeMelo",
                 "player_number": "7",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "LOU",
                 "player_birthdate": "1998-03-26"
             },
             {
@@ -2085,7 +2333,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240709_ary-borges.jpg",
                 "player_name": "Ary Borges",
                 "player_number": "8",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "LOU",
                 "player_birthdate": "1999-12-28"
             },
             {
@@ -2093,7 +2342,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240710_k-fischer.jpg",
                 "player_name": "Kayla Fischer",
                 "player_number": "9",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "LOU",
                 "player_birthdate": "2000-01-05"
             },
             {
@@ -2101,7 +2351,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232667_j-baggett.jpg",
                 "player_name": "Jordan Baggett",
                 "player_number": "19",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "LOU",
                 "player_birthdate": "1996-10-28"
             },
             {
@@ -2109,7 +2360,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240711_p-goins.jpg",
                 "player_name": "Parker Goins",
                 "player_number": "21",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "LOU",
                 "player_birthdate": "1998-12-08"
             },
             {
@@ -2117,7 +2369,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240712_r-holloway.jpg",
                 "player_name": "Rebecca Holloway",
                 "player_number": "25",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "LOU",
                 "player_birthdate": "1995-08-25"
             },
             {
@@ -2125,7 +2378,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/247698_t-aylmer.jpg",
                 "player_name": "Taylor Aylmer",
                 "player_number": "26",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "LOU",
                 "player_birthdate": "1998-09-23"
             },
             {
@@ -2133,7 +2387,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232531_a-chidiac.jpg",
                 "player_name": "Alexandra Chidiac",
                 "player_number": "27",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "LOU",
                 "player_birthdate": "1999-01-15"
             },
             {
@@ -2141,7 +2396,8 @@
                 "player_image": "",
                 "player_name": "Riley Parker",
                 "player_number": "31",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "LOU",
                 "player_birthdate": "2000-03-31"
             },
             {
@@ -2149,7 +2405,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240713_wang-shuang.jpg",
                 "player_name": "Wang Shuang",
                 "player_number": "77",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "LOU",
                 "player_birthdate": "1995-01-23"
             },
             {
@@ -2157,7 +2414,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232799_p-monaghan.jpg",
                 "player_name": "Paige Monaghan",
                 "player_number": "5",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "LOU",
                 "player_birthdate": "1996-11-13"
             },
             {
@@ -2165,7 +2423,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/6024_n-nadim.jpg",
                 "player_name": "Nadia Nadim",
                 "player_number": "10",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "LOU",
                 "player_birthdate": "1988-01-02"
             },
             {
@@ -2173,7 +2432,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240714_t-kgatlana.jpg",
                 "player_name": "Thembi Kgatlana",
                 "player_number": "11",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "LOU",
                 "player_birthdate": "1996-05-02"
             },
             {
@@ -2181,7 +2441,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240715_e-ekic.jpg",
                 "player_name": "Emina Ekic",
                 "player_number": "13",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "LOU",
                 "player_birthdate": "1999-06-06"
             },
             {
@@ -2189,7 +2450,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232836_j-mcdonald.jpg",
                 "player_name": "Jessica McDonald",
                 "player_number": "14",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "LOU",
                 "player_birthdate": "1988-02-28"
             },
             {
@@ -2197,7 +2459,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/244673_m-pokorny.jpg",
                 "player_name": "Maddie Pokorny",
                 "player_number": "17",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "LOU",
                 "player_birthdate": "1996-11-24"
             },
             {
@@ -2205,7 +2468,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240716_k-davis.jpg",
                 "player_name": "Kirsten Davis",
                 "player_number": "22",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "LOU",
                 "player_birthdate": "1998-09-08"
             },
             {
@@ -2213,7 +2477,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240717_u-kanu.jpg",
                 "player_name": "Uchenna Kanu",
                 "player_number": "29",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "LOU",
                 "player_birthdate": "1997-06-20"
             }
         ]
@@ -2231,7 +2496,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232779_k-sheridan.jpg",
                 "player_name": "Kailen Sheridan",
                 "player_number": "1",
-                "player_type": "Goalkeepers",
+                "player_type": "GK",
+                "player_team": "SD",
                 "player_birthdate": "1995-07-16"
             },
             {
@@ -2239,7 +2505,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240835_l-brzykcy.jpg",
                 "player_name": "Lauren Brzykcy",
                 "player_number": "17",
-                "player_type": "Goalkeepers",
+                "player_type": "GK",
+                "player_team": "SD",
                 "player_birthdate": "1999-11-08"
             },
             {
@@ -2247,7 +2514,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240836_s-yanez.jpg",
                 "player_name": "Shae Yáñez",
                 "player_number": "30",
-                "player_type": "Goalkeepers",
+                "player_type": "GK",
+                "player_team": "SD",
                 "player_birthdate": "1997-05-22"
             },
             {
@@ -2255,7 +2523,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232822_a-dahlkemper.jpg",
                 "player_name": "Abby Dahlkemper",
                 "player_number": "2",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "SD",
                 "player_birthdate": "1993-05-13"
             },
             {
@@ -2263,7 +2532,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240837_n-girma.jpg",
                 "player_name": "Naomi Girma",
                 "player_number": "4",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "SD",
                 "player_birthdate": "2000-06-14"
             },
             {
@@ -2271,7 +2541,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232544_m-pogarch.jpg",
                 "player_name": "Madison Pogarch",
                 "player_number": "16",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "SD",
                 "player_birthdate": "1997-11-05"
             },
             {
@@ -2279,7 +2550,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232783_k-riehl.jpg",
                 "player_name": "Kaleigh Riehl",
                 "player_number": "18",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "SD",
                 "player_birthdate": "1996-10-21"
             },
             {
@@ -2287,7 +2559,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232545_c-westphal.jpg",
                 "player_name": "Christen Westphal",
                 "player_number": "20",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "SD",
                 "player_birthdate": "1993-09-02"
             },
             {
@@ -2295,7 +2568,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240838_m-gyau.jpg",
                 "player_name": "Mia Gyau",
                 "player_number": "26",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "SD",
                 "player_birthdate": "1998-06-22"
             },
             {
@@ -2303,7 +2577,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240839_c-shorts.jpg",
                 "player_name": "Cheyenne Shorts",
                 "player_number": "34",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "SD",
                 "player_birthdate": "1998-08-10"
             },
             {
@@ -2311,7 +2586,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/244759_c-cortez.jpg",
                 "player_name": "Chai Cortez",
                 "player_number": "46",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "SD",
                 "player_birthdate": "1998-07-18"
             },
             {
@@ -2319,7 +2595,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/233292_e-van-egmond.jpg",
                 "player_name": "Emily van Egmond",
                 "player_number": "5",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "SD",
                 "player_birthdate": "1993-07-12"
             },
             {
@@ -2327,7 +2604,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240840_k-turnbow.jpg",
                 "player_name": "Kelsey Turnbow",
                 "player_number": "6",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "SD",
                 "player_birthdate": "1999-01-10"
             },
             {
@@ -2335,7 +2613,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240841_s-enge.jpg",
                 "player_name": "Sierra Enge",
                 "player_number": "8",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "SD",
                 "player_birthdate": "2000-02-23"
             },
             {
@@ -2343,7 +2622,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240842_g-demarco.jpg",
                 "player_name": "Giovanna DeMarco",
                 "player_number": "12",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "SD",
                 "player_birthdate": "1999-07-09"
             },
             {
@@ -2351,7 +2631,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232759_k-mcnabb.jpg",
                 "player_name": "Kristen McNabb",
                 "player_number": "14",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "SD",
                 "player_birthdate": "1994-04-17"
             },
             {
@@ -2359,15 +2640,17 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/233297_t-kornieck.jpg",
                 "player_name": "Taylor Kornieck",
                 "player_number": "22",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "SD",
                 "player_birthdate": "1998-11-22"
             },
             {
                 "player_id": "2058873776",
                 "player_image": "https://apiv3.apifootball.com/badges/players/240843_b-briede.jpg",
-                "player_name": "Belle Briede",
+                "player_name": "Isabella Briede",
                 "player_number": "23",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "SD",
                 "player_birthdate": "1998-10-03"
             },
             {
@@ -2375,7 +2658,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232625_d-colaprico.jpg",
                 "player_name": "Danielle Colaprico",
                 "player_number": "24",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "SD",
                 "player_birthdate": "1993-05-06"
             },
             {
@@ -2383,7 +2667,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232665_m-dougherty-howard.jpg",
                 "player_name": "Meggie Dougherty Howard",
                 "player_number": "28",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "SD",
                 "player_birthdate": "1995-07-27"
             },
             {
@@ -2391,7 +2676,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232629_r-hill.jpg",
                 "player_name": "Rachel Hill",
                 "player_number": "3",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "SD",
                 "player_birthdate": "1995-04-17"
             },
             {
@@ -2399,7 +2685,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240844_a-ali.jpg",
                 "player_name": "Amirah Ali",
                 "player_number": "7",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "SD",
                 "player_birthdate": "1998-12-07"
             },
             {
@@ -2407,7 +2694,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/31635_s-jakobsson.jpg",
                 "player_name": "Sofia Jakobsson",
                 "player_number": "10",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "SD",
                 "player_birthdate": "1990-04-23"
             },
             {
@@ -2415,7 +2703,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240845_j-shaw.jpg",
                 "player_name": "Jaedyn Shaw",
                 "player_number": "11",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "SD",
                 "player_birthdate": "2004-11-20"
             },
             {
@@ -2423,7 +2712,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/233302_a-morgan.jpg",
                 "player_name": "Alex Morgan",
                 "player_number": "13",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "SD",
                 "player_birthdate": "1989-07-02"
             },
             {
@@ -2431,7 +2721,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232631_m-doniak.jpg",
                 "player_name": "Makenzy Doniak",
                 "player_number": "15",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "SD",
                 "player_birthdate": "1994-02-25"
             },
             {
@@ -2439,7 +2730,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/241476_k-carusa.jpg",
                 "player_name": "Kyra Carusa",
                 "player_number": "19",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "SD",
                 "player_birthdate": "1995-11-14"
             },
             {
@@ -2447,7 +2739,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240846_m-barcenas.jpg",
                 "player_name": "Melanie Barcenas",
                 "player_number": "25",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "SD",
                 "player_birthdate": "2007-10-30"
             }
         ]
@@ -2465,7 +2758,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240875_l-ivory.jpg",
                 "player_name": "Laurel Ivory",
                 "player_number": "18",
-                "player_type": "Goalkeepers",
+                "player_type": "GK",
+                "player_team": "SEA",
                 "player_birthdate": "1999-08-28"
             },
             {
@@ -2473,7 +2767,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240876_c-dickey.jpg",
                 "player_name": "Claudia Dickey",
                 "player_number": "30",
-                "player_type": "Goalkeepers",
+                "player_type": "GK",
+                "player_team": "SEA",
                 "player_birthdate": "2000-01-06"
             },
             {
@@ -2481,7 +2776,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/233291_e-sonnett.jpg",
                 "player_name": "Emily Sonnett",
                 "player_number": "2",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "SEA",
                 "player_birthdate": "1993-11-25"
             },
             {
@@ -2489,7 +2785,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232755_l-barnes.jpg",
                 "player_name": "Lauren Barnes",
                 "player_number": "3",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "SEA",
                 "player_birthdate": "1989-05-31"
             },
             {
@@ -2497,7 +2794,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232756_a-cook.jpg",
                 "player_name": "Ava Cook",
                 "player_number": "4",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "SEA",
                 "player_birthdate": "1997-04-11"
             },
             {
@@ -2505,7 +2803,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232774_s-huerta.jpg",
                 "player_name": "Sofia Huerta",
                 "player_number": "11",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "SEA",
                 "player_birthdate": "1992-12-14"
             },
             {
@@ -2513,7 +2812,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240878_s-hiatt.jpg",
                 "player_name": "Samantha Hiatt",
                 "player_number": "17",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "SEA",
                 "player_birthdate": "1998-01-06"
             },
             {
@@ -2521,7 +2821,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240879_a-malonson.jpg",
                 "player_name": "Alyssa Malonson",
                 "player_number": "20",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "SEA",
                 "player_birthdate": "1999-04-09"
             },
             {
@@ -2529,7 +2830,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240880_p-mcclernon.jpg",
                 "player_name": "Phoebe McClernon",
                 "player_number": "21",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "SEA",
                 "player_birthdate": "1997-12-13"
             },
             {
@@ -2537,7 +2839,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240881_r-brown.jpg",
                 "player_name": "Ryanne Brown",
                 "player_number": "22",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "SEA",
                 "player_birthdate": "1999-01-21"
             },
             {
@@ -2545,7 +2848,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240882_s-holmes.jpg",
                 "player_name": "Shae Holmes",
                 "player_number": "25",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "SEA",
                 "player_birthdate": "2000-03-08"
             },
             {
@@ -2553,7 +2857,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232764_quinn.jpg",
                 "player_name": "Quinn",
                 "player_number": "5",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "SEA",
                 "player_birthdate": "1995-08-11"
             },
             {
@@ -2561,7 +2866,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240883_angelina.jpg",
                 "player_name": "Angelina",
                 "player_number": "6",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "SEA",
                 "player_birthdate": "2000-01-26"
             },
             {
@@ -2569,7 +2875,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240884_n-stanton.jpg",
                 "player_name": "Nikki Stanton",
                 "player_number": "7",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "SEA",
                 "player_birthdate": "1990-10-26"
             },
             {
@@ -2577,7 +2884,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/19631_j-fishlock.jpg",
                 "player_name": "Jess Fishlock",
                 "player_number": "10",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "SEA",
                 "player_birthdate": "1987-01-14"
             },
             {
@@ -2585,7 +2893,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240885_o-athens.jpg",
                 "player_name": "Olivia Athens",
                 "player_number": "12",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "SEA",
                 "player_birthdate": "1998-08-01"
             },
             {
@@ -2593,7 +2902,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240886_m-canales.jpg",
                 "player_name": "Marley Canales",
                 "player_number": "13",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "SEA",
                 "player_birthdate": "1997-11-16"
             },
             {
@@ -2601,7 +2911,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232666_r-lavelle.jpg",
                 "player_name": "Rose Lavelle",
                 "player_number": "16",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "SEA",
                 "player_birthdate": "1995-05-14"
             },
             {
@@ -2609,7 +2920,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240887_o-van-der-jagt.jpg",
                 "player_name": "Olivia Van Der Jagt",
                 "player_number": "33",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "SEA",
                 "player_birthdate": "1999-07-07"
             },
             {
@@ -2617,7 +2929,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232777_b-balcer.jpg",
                 "player_name": "Bethany Balcer",
                 "player_number": "8",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "SEA",
                 "player_birthdate": "1997-03-07"
             },
             {
@@ -2625,7 +2938,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240888_j-huitema.jpg",
                 "player_name": "Jordyn Huitema",
                 "player_number": "9",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "SEA",
                 "player_birthdate": "2001-05-08"
             },
             {
@@ -2633,7 +2947,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232772_m-rapinoe.jpg",
                 "player_name": "Megan Rapinoe",
                 "player_number": "15",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "SEA",
                 "player_birthdate": "1985-07-05"
             },
             {
@@ -2641,7 +2956,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240890_t-king.jpg",
                 "player_name": "Tziarra King",
                 "player_number": "23",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "SEA",
                 "player_birthdate": "1998-08-24"
             },
             {
@@ -2649,7 +2965,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232599_v-latsko.jpg",
                 "player_name": "Veronica Latsko",
                 "player_number": "24",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "SEA",
                 "player_birthdate": "1995-12-12"
             },
             {
@@ -2657,7 +2974,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240891_e-bennett.jpg",
                 "player_name": "Elyse Bennett",
                 "player_number": "34",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "SEA",
                 "player_birthdate": "1999-12-27"
             }
         ]
@@ -2675,7 +2993,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/241098_a-smith.jpg",
                 "player_name": "Autumn Smithers",
                 "player_number": "1",
-                "player_type": "Goalkeepers",
+                "player_type": "GK",
+                "player_team": "UTA",
                 "player_birthdate": "1993-10-04"
             },
             {
@@ -2683,7 +3002,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/16582_n-barnhart.jpg",
                 "player_name": "Nicole Barnhart",
                 "player_number": "18",
-                "player_type": "Goalkeepers",
+                "player_type": "GK",
+                "player_team": "UTA",
                 "player_birthdate": "1981-10-10"
             },
             {
@@ -2691,7 +3011,8 @@
                 "player_image": "",
                 "player_name": "Melissa Lowder",
                 "player_number": "",
-                "player_type": "Goalkeepers",
+                "player_type": "GK",
+                "player_team": "UTA",
                 "player_birthdate": ""
             },
             {
@@ -2699,7 +3020,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/212_r-corsie.jpg",
                 "player_name": "Rachel Corsie",
                 "player_number": "2",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "UTA",
                 "player_birthdate": "1989-08-17"
             },
             {
@@ -2707,7 +3029,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/241101_k-oaposhara.jpg",
                 "player_name": "Kelley O'Hara",
                 "player_number": "5",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "UTA",
                 "player_birthdate": "1988-08-04"
             },
             {
@@ -2715,7 +3038,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240666_e-ball.jpg",
                 "player_name": "Elizabeth Ball",
                 "player_number": "",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "UTA",
                 "player_birthdate": "1995-10-19"
             },
             {
@@ -2723,7 +3047,8 @@
                 "player_image": "",
                 "player_name": "Gaby Vincent",
                 "player_number": "14",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "UTA",
                 "player_birthdate": ""
             },
             {
@@ -2731,7 +3056,8 @@
                 "player_image": "",
                 "player_name": "Michelle Maemone",
                 "player_number": "19",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "UTA",
                 "player_birthdate": ""
             },
             {
@@ -2739,7 +3065,8 @@
                 "player_image": "",
                 "player_name": "Madeline Nolf",
                 "player_number": "22",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "UTA",
                 "player_birthdate": ""
             },
             {
@@ -2747,7 +3074,8 @@
                 "player_image": "",
                 "player_name": "Taylor Leach",
                 "player_number": "",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "UTA",
                 "player_birthdate": ""
             },
             {
@@ -2755,7 +3083,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/242984_k-bowen.jpg",
                 "player_name": "Katie Bowen",
                 "player_number": "6",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "UTA",
                 "player_birthdate": "1994-04-15"
             },
             {
@@ -2763,7 +3092,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240675_l-labonta.jpg",
                 "player_name": "Lo'eau LaBonta",
                 "player_number": "9",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "UTA",
                 "player_birthdate": "1993-03-18"
             },
             {
@@ -2771,7 +3101,8 @@
                 "player_image": "",
                 "player_name": "Diana Matheson",
                 "player_number": "",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "UTA",
                 "player_birthdate": ""
             },
             {
@@ -2779,7 +3110,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240676_d-scott.jpg",
                 "player_name": "Desiree Scott",
                 "player_number": "11",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "UTA",
                 "player_birthdate": "1987-07-31"
             },
             {
@@ -2787,7 +3119,8 @@
                 "player_image": "",
                 "player_name": "Taylor Lytle",
                 "player_number": "",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "UTA",
                 "player_birthdate": ""
             },
             {
@@ -2795,7 +3128,8 @@
                 "player_image": "",
                 "player_name": "Chestley Strother",
                 "player_number": "",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "UTA",
                 "player_birthdate": ""
             },
             {
@@ -2803,7 +3137,8 @@
                 "player_image": "",
                 "player_name": "Verónica Boquete",
                 "player_number": "21",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "UTA",
                 "player_birthdate": ""
             },
             {
@@ -2811,7 +3146,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240637_m-sheva.jpg",
                 "player_name": "Marissa Sheva",
                 "player_number": "",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "UTA",
                 "player_birthdate": "1997-04-22"
             },
             {
@@ -2819,7 +3155,8 @@
                 "player_image": "",
                 "player_name": "Gunnhildur Jónsdóttir",
                 "player_number": "66",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "UTA",
                 "player_birthdate": ""
             },
             {
@@ -2827,7 +3164,8 @@
                 "player_image": "",
                 "player_name": "Aminata Diallo",
                 "player_number": "",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "UTA",
                 "player_birthdate": ""
             },
             {
@@ -2835,7 +3173,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240890_t-king.jpg",
                 "player_name": "Tziarra King",
                 "player_number": "",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "UTA",
                 "player_birthdate": "1998-08-24"
             },
             {
@@ -2843,7 +3182,8 @@
                 "player_image": "",
                 "player_name": "Anika Rodriguez",
                 "player_number": "8",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "UTA",
                 "player_birthdate": ""
             },
             {
@@ -2851,7 +3191,8 @@
                 "player_image": "",
                 "player_name": "Arielle Ship",
                 "player_number": "",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "UTA",
                 "player_birthdate": ""
             },
             {
@@ -2859,7 +3200,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240670_m-weber.jpg",
                 "player_name": "Mallory Weber",
                 "player_number": "20",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "UTA",
                 "player_birthdate": "1994-04-04"
             },
             {
@@ -2867,7 +3209,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240833_c-press.jpg",
                 "player_name": "Christen Press",
                 "player_number": "23",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "UTA",
                 "player_birthdate": "1988-12-29"
             },
             {
@@ -2875,7 +3218,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240629_b-ratcliffe.jpg",
                 "player_name": "Brittany Ratcliffe",
                 "player_number": "",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "UTA",
                 "player_birthdate": "1994-02-07"
             },
             {
@@ -2883,7 +3227,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240667_k-del-fava.jpg",
                 "player_name": "Kate Del Fava",
                 "player_number": "",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "UTA",
                 "player_birthdate": "1998-07-23"
             },
             {
@@ -2891,7 +3236,8 @@
                 "player_image": "",
                 "player_name": "Raisa Strom-Okimoto",
                 "player_number": "42",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "UTA",
                 "player_birthdate": ""
             },
             {
@@ -2899,7 +3245,8 @@
                 "player_image": "",
                 "player_name": "Holly Daugirda",
                 "player_number": "",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "UTA",
                 "player_birthdate": ""
             }
         ]
@@ -2917,7 +3264,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232655_a-kingsbury.jpg",
                 "player_name": "Aubrey Kingsbury",
                 "player_number": "1",
-                "player_type": "Goalkeepers",
+                "player_type": "GK",
+                "player_team": "WAS",
                 "player_birthdate": "1991-11-20"
             },
             {
@@ -2925,7 +3273,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240632_l-bosselmann.jpg",
                 "player_name": "Lyza Bosselmann",
                 "player_number": "18",
-                "player_type": "Goalkeepers",
+                "player_type": "GK",
+                "player_team": "WAS",
                 "player_birthdate": "2001-07-27"
             },
             {
@@ -2933,7 +3282,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/16582_n-barnhart.jpg",
                 "player_name": "Nicole Barnhart",
                 "player_number": "28",
-                "player_type": "Goalkeepers",
+                "player_type": "GK",
+                "player_team": "WAS",
                 "player_birthdate": "1981-10-10"
             },
             {
@@ -2941,15 +3291,17 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232658_s-staab.jpg",
                 "player_name": "Samantha Staab",
                 "player_number": "3",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "WAS",
                 "player_birthdate": "1997-03-28"
             },
             {
                 "player_id": "1819705159",
                 "player_image": "https://apiv3.apifootball.com/badges/players/250710_a-butel.jpg",
-                "player_name": "AnnaÃ¯g Butel",
+                "player_name": "Annaïg Butel",
                 "player_number": "5",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "WAS",
                 "player_birthdate": "1992-02-15"
             },
             {
@@ -2957,7 +3309,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240633_g-carle.jpg",
                 "player_name": "Gabrielle Carle",
                 "player_number": "14",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "WAS",
                 "player_birthdate": "1998-10-12"
             },
             {
@@ -2965,7 +3318,8 @@
                 "player_image": "",
                 "player_name": "Anna Heilferty",
                 "player_number": "21",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "WAS",
                 "player_birthdate": "1999-04-17"
             },
             {
@@ -2973,7 +3327,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232754_a-brooks.jpg",
                 "player_name": "Amber Brooks",
                 "player_number": "22",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "WAS",
                 "player_birthdate": "1991-01-23"
             },
             {
@@ -2981,7 +3336,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232618_c-biegalski.jpg",
                 "player_name": "Camryn Biegalski",
                 "player_number": "30",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "WAS",
                 "player_birthdate": "1998-08-11"
             },
             {
@@ -2989,7 +3345,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/245188_j-thompson.jpg",
                 "player_name": "Jordan Thompson",
                 "player_number": "37",
-                "player_type": "Defenders",
+                "player_type": "DEF",
+                "player_team": "WAS",
                 "player_birthdate": "1998-08-09"
             },
             {
@@ -2997,7 +3354,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240635_i-jaurena.jpg",
                 "player_name": "Ines Jaurena",
                 "player_number": "7",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "WAS",
                 "player_birthdate": "1991-05-14"
             },
             {
@@ -3005,7 +3363,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232668_a-sullivan.jpg",
                 "player_name": "Andi Sullivan",
                 "player_number": "12",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "WAS",
                 "player_birthdate": "1995-12-20"
             },
             {
@@ -3013,7 +3372,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232669_b-feist.jpg",
                 "player_name": "Bayley Feist",
                 "player_number": "13",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "WAS",
                 "player_birthdate": "1997-03-14"
             },
             {
@@ -3021,7 +3381,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240636_m-elwell.jpg",
                 "player_name": "Madison Elwell",
                 "player_number": "16",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "WAS",
                 "player_birthdate": "1999-09-06"
             },
             {
@@ -3029,7 +3390,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232671_d-bailey.jpg",
                 "player_name": "Dorian Bailey",
                 "player_number": "19",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "WAS",
                 "player_birthdate": "1997-01-28"
             },
             {
@@ -3037,7 +3399,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232672_t-huster.jpg",
                 "player_name": "Tori Huster",
                 "player_number": "23",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "WAS",
                 "player_birthdate": "1989-09-23"
             },
             {
@@ -3045,7 +3408,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240637_m-sheva.jpg",
                 "player_name": "Marissa Sheva",
                 "player_number": "25",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "WAS",
                 "player_birthdate": "1997-04-22"
             },
             {
@@ -3053,7 +3417,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240638_p-metayer.jpg",
                 "player_name": "Paige Metayer",
                 "player_number": "26",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "WAS",
                 "player_birthdate": "2000-09-23"
             },
             {
@@ -3061,7 +3426,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240639_c-ricketts.jpg",
                 "player_name": "Chloe Ricketts",
                 "player_number": "39",
-                "player_type": "Midfielders",
+                "player_type": "MID",
+                "player_team": "WAS",
                 "player_birthdate": "2007-05-23"
             },
             {
@@ -3069,7 +3435,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240640_t-rodman.jpg",
                 "player_name": "Trinity Rodman",
                 "player_number": "2",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "WAS",
                 "player_birthdate": "2002-05-20"
             },
             {
@@ -3077,7 +3444,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/250711_o-sarr.jpg",
                 "player_name": "Ouleymata Sarr",
                 "player_number": "8",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "WAS",
                 "player_birthdate": "1995-10-08"
             },
             {
@@ -3085,7 +3453,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240641_t-mckeown.jpg",
                 "player_name": "Tara McKeown",
                 "player_number": "9",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "WAS",
                 "player_birthdate": "1999-07-02"
             },
             {
@@ -3093,7 +3462,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232673_a-sanchez.jpg",
                 "player_name": "Ashley Sanchez",
                 "player_number": "10",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "WAS",
                 "player_birthdate": "1999-03-16"
             },
             {
@@ -3101,7 +3471,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240642_n-douglas.jpg",
                 "player_name": "Nicole Douglas",
                 "player_number": "17",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "WAS",
                 "player_birthdate": "2000-07-31"
             },
             {
@@ -3109,7 +3480,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240643_c-kuhlmann.jpg",
                 "player_name": "Civana Kuhlmann",
                 "player_number": "20",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "WAS",
                 "player_birthdate": "1999-04-14"
             },
             {
@@ -3117,7 +3489,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240644_l-silano.jpg",
                 "player_name": "Lena Silano",
                 "player_number": "24",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "WAS",
                 "player_birthdate": "2000-02-28"
             },
             {
@@ -3125,7 +3498,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/240645_r-tanner.jpg",
                 "player_name": "Riley Tanner",
                 "player_number": "27",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "WAS",
                 "player_birthdate": "1999-10-15"
             },
             {
@@ -3133,7 +3507,8 @@
                 "player_image": "https://apiv3.apifootball.com/badges/players/232680_a-hatch.jpg",
                 "player_name": "Ashley Hatch",
                 "player_number": "33",
-                "player_type": "Forwards",
+                "player_type": "FWD",
+                "player_team": "WAS",
                 "player_birthdate": "1995-05-25"
             }
         ]
