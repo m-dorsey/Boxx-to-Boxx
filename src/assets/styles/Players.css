@@ -2,15 +2,15 @@
 
 .player {
     display: flex;
-    background-color: blueviolet;
+    /* background-color: blueviolet; */
 
     .player_container {
-        background-color: chocolate;
+        /* background-color: chocolate; */
         padding: 0px 10px;
         position: relative;
 
         .player_left_icons {
-            background-color: aqua;
+            /* background-color: aqua; */
             display: inline-block;
             position: absolute;
             top: 0;
@@ -18,7 +18,7 @@
         }
 
         .player_right_icons {
-            background-color: burlywood;
+            /* background-color: burlywood; */
             display: inline-block;
             position: absolute;
             top: 0;
@@ -26,19 +26,20 @@
         }
 
         .player_snippet {
-            margin-top: -5px;
-            background-color: yellow;
-            font-size: 12px;
+            margin-top: -1px;
+            background-color: #e6f3d6;
+            font-size: 11px;
             text-align: center;
             font-variant: small-caps;
             font-weight: 500;
+            border-radius: 0px 0px 5px 5px;   
         }
 
         .jersey {
-
-            color: red;
+            background-color: rgba(255, 255, 255, 0.5);
+            border: 1.5px dashed;
+            border-radius: 5px 5px 0px 0px;
             height: 80px;
-            border: 1px solid;
 
         }
 

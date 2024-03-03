@@ -1,10 +1,7 @@
 
 import teams from '../data/json/teams.json'
-
 import '../assets/styles/Navigation.css'
 
-// const clubs = JSON.parse(teams)
-console.log(teams) 
 
 export const TeamSites = () => {
 

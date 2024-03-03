@@ -7,8 +7,8 @@ import {useLocation} from 'react-router-dom'
 
 export const Pitch = () => {
 
-    const location = useLocation()
-    console.log(location)
+    // const location = useLocation()
+    // console.log(location)
 
     const formation = [
         ["SUB", 4],
@@ -18,21 +18,11 @@ export const Pitch = () => {
         ["FWD", 2],
     ]
 
-    // console.log(formation)
-
     return (
         <div className='pitch'>
             <Formation className='pitch_formation' formation={formation}>
-                {/* <Player team="NON" /> */}
             </Formation>
         </div>
-        // <>
-        //     <div className='pitch'>
-        //         <Formation className='pitch_formation' formation="1 4 4 2" />
-        //         <div className='pitch_img'></div>
-        //         {/* <img className='pitch_img' src={pitch_img} /> */}
-        //     </div>
-        // </>
     )
 }
 

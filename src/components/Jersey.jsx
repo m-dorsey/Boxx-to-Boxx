@@ -4,8 +4,6 @@ import colors from '../data/colors.json'
 
 export const Jersey = (props) => {
 
-    // console.log(props)
-
     const getColor = (loc) => {
         return (colors[props.team][loc])
     }
@@ -14,7 +12,6 @@ export const Jersey = (props) => {
         <svg className='jersey' version="1.1" id="Layer_1" viewBox="0 0 496.2 496.2" xmlns="http://www.w3.org/2000/svg">
 
             {/* <!-- left trim --> */}
-            {/* <path style={{ fill: '#487206' }} d="M146.9,215.7c-0.5,1.5-2.1,2.3-3.5,1.8l-45-14.5c-1.5-0.5-2.3-2.1-1.8-3.5l1.9-6.2l50.3,16.2 L146.9,215.7z" /> */}
             <path style={{ fill: getColor('trim') }} d="M146.9,215.7c-0.5,1.5-2.1,2.3-3.5,1.8l-45-14.5c-1.5-0.5-2.3-2.1-1.8-3.5l1.9-6.2l50.3,16.2 L146.9,215.7z" />
 
             {/* <!-- bottom trim --> */}

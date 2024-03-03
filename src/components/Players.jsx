@@ -4,20 +4,7 @@ import '../assets/styles/Players.css'
 
 export const Player = (props) => {
 
-    // console.log("------------")
-    // console.log(props.pos, props.amt)
-
-    console.log(props)
-    let num_arr = []
-    for (let i = 0; i < props.amt; i++) {
-        num_arr.push(i)
-    }
-    console.log(num_arr)
-
-    console.log(props.players_list)
     let player_info = []
-
-
     const get_players = (pos) => {
 
 
@@ -75,46 +62,23 @@ export const Player = (props) => {
         }
 
         return player_info
-    }
-
-    console.log(props.pos, props.amt)
-    
-
-    
+    } // end get_players()
 
     return (
         <div className='formation_line'>
-            <div className=" player">
-
-                {/* {
-                    player_info.map((player) => {
-                        <div className='player_container'>
-                            <div className="player_left_icons">
-                                s|x
-                            </div>
-                            <Jersey key={player} team="NON" />
-                            <div className="player_right_icons">
-                                iii
-                            </div>
-                            <div className="player_snippet">
-                                <div>Name</div>
-                                <div>cost</div>
-                            </div>
-                        </div>
-                    })
-                } */}
+            <div className="player">
                 
                 {
                     get_players(props.pos).map((player) => (
                         // <p style={{display:'inline-block'}}>hi</p>
                         <div className='player_container'>
-                            <div className="player_left_icons">
+                            {/* <div className="player_left_icons">
                                 s|x
-                            </div>
+                            </div> */}
                             <Jersey key={player} team={player['team']}/>
-                            <div className="player_right_icons">
+                            {/* <div className="player_right_icons">
                                 iii
-                            </div>
+                            </div> */}
                             <div className="player_snippet">
                                 <div>{player['name']}</div>
                                 <div>{player['team']}</div>
@@ -122,8 +86,7 @@ export const Player = (props) => {
                         </div>
                     ))
                 }
-                
-                
+                    
             </div>
         </div>
     )
