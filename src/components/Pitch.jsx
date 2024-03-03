@@ -5,10 +5,7 @@ import '../assets/styles/Pitch.css'
 import Player from './Players'
 import {useLocation} from 'react-router-dom'
 
-export const Pitch = () => {
-
-    // const location = useLocation()
-    // console.log(location)
+export const Pitch = (props) => {
 
     const formation = [
         ["SUB", 4],
@@ -20,8 +17,11 @@ export const Pitch = () => {
 
     return (
         <div className='pitch'>
-            <Formation className='pitch_formation' formation={formation}>
-            </Formation>
+            <Formation 
+            // path={props.path}
+                className='pitch_formation' 
+                formation={formation} 
+            />
         </div>
     )
 }

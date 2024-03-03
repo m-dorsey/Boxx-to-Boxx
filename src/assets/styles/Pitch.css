@@ -1,36 +1,7 @@
-/**
-.pitch {
-    background-color: yellow;
-    position: relative;
-    display: block;
 
-    .pitch_img {
-        background-color: royalblue;
-        background-image: url('../images/pitch.png');
-        
-        height: auto;
-        margin: 0 auto;
-        position: absolute;
-    }
-
-    .pitch_formation {
-        background-color: pink;
-        
-        width: 50%;
-        min-height: 75px;
-        border: 1px solid;
-        margin: 0 auto;
-        position: static;
-        
-        padding: 10px;
-    }
-
-}
-
-**/
 
 .pitch {
-    background-color: yellow;
+    /* background-color: yellow; */
     position: relative;
     min-height: 575px;
     background-image: url('../images/pitch.png');

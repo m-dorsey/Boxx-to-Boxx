@@ -11,6 +11,7 @@ import TeamSites from './components/TeamSites'
 import Hero from './components/Hero'
 import Navigation from './components/Navigation'
 import PageNotFound from './pages/PageNotFound'
+import Footer from './components/Footer'
 
 const App = () => {
 
@@ -26,9 +27,11 @@ const App = () => {
         <Route path="/pick-team" element={<PickTeam />} />
         <Route path="/transfers" element={<Transfers />} />
         <Route path="/fixtures" element={<Fixtures />} />
-        <Route path="/statistics" element={<Statistics />} />
+        <Route path="" element={<Statistics />} />
         <Route path="*" element={<PageNotFound />} />
       </Routes>
+
+      <Footer />
     
     </BrowserRouter>
 

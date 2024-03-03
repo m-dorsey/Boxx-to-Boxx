@@ -1,11 +1,12 @@
 
 import {Team} from '../components/Team'
+import '../assets/styles/Fixtures.css'
 
 export const PickTeam = () => {
 
     return (
         <>
-            <h1>PickTeam</h1>
+            <h1 style={{ marginLeft: '5rem' }} className='fixtures_header'>Select your Starting Eleven</h1>
             <Team/>
         </>
     )

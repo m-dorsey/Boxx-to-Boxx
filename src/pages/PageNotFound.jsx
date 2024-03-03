@@ -1,11 +1,12 @@
 
+import '../assets/styles/PageNotFound.css'
 
 export const PageNotFound = () => {
 
     return (
-        <>
-            <h1>PageNotFound</h1>
-        </>
+        <div className='page_not_found'>
+            <h1 className='page_not_found_text'>Stay Tuned: Sat Mar 16</h1>
+        </div>
     )
 }
 

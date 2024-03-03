@@ -1405,7 +1405,8 @@
                 "player_number": "1",
                 "player_type": "GK",
                 "player_team": "NC",
-                "player_birthdate": "1996-04-25"
+                "player_birthdate": "1996-04-25",
+                "next_opp": "KC (H)"
             },
             {
                 "player_id": "712277303",
@@ -1414,7 +1415,8 @@
                 "player_number": "44",
                 "player_type": "GK",
                 "player_team": "NC",
-                "player_birthdate": "2000-08-06"
+                "player_birthdate": "2000-08-06",
+                "next_opp": "KC (H)"
             },
             {
                 "player_id": "4029370513",
@@ -1423,7 +1425,8 @@
                 "player_number": "98",
                 "player_type": "GK",
                 "player_team": "NC",
-                "player_birthdate": "1994-03-16"
+                "player_birthdate": "1994-03-16",
+                "next_opp": "KC (H)"
             },
             {
                 "player_id": "3126166795",
@@ -1432,7 +1435,8 @@
                 "player_number": "2",
                 "player_type": "DEF",
                 "player_team": "NC",
-                "player_birthdate": ""
+                "player_birthdate": "",
+                "next_opp": "KC (H)"
             },
             {
                 "player_id": "1136165760",
@@ -1441,7 +1445,8 @@
                 "player_number": "3",
                 "player_type": "DEF",
                 "player_team": "NC",
-                "player_birthdate": "1994-09-09"
+                "player_birthdate": "1994-09-09",
+                "next_opp": "KC (H)"
             },
             {
                 "player_id": "3427493509",
@@ -1450,7 +1455,8 @@
                 "player_number": "7",
                 "player_type": "DEF",
                 "player_team": "NC",
-                "player_birthdate": "1998-02-13"
+                "player_birthdate": "1998-02-13",
+                "next_opp": "KC (H)"
             },
             {
                 "player_id": "424950457",
@@ -1459,7 +1465,8 @@
                 "player_number": "12",
                 "player_type": "DEF",
                 "player_team": "NC",
-                "player_birthdate": "1998-07-05"
+                "player_birthdate": "1998-07-05",
+                "next_opp": "KC (H)"
             },
             {
                 "player_id": "27187831",
@@ -1468,7 +1475,8 @@
                 "player_number": "13",
                 "player_type": "DEF",
                 "player_team": "NC",
-                "player_birthdate": "1996-02-23"
+                "player_birthdate": "1996-02-23",
+                "next_opp": "KC (H)"
             },
             {
                 "player_id": "2526924288",
@@ -1477,7 +1485,8 @@
                 "player_number": "18",
                 "player_type": "DEF",
                 "player_team": "NC",
-                "player_birthdate": "1999-09-08"
+                "player_birthdate": "1999-09-08",
+                "next_opp": "KC (H)"
             },
             {
                 "player_id": "3393155460",

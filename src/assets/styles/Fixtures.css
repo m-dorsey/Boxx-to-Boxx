@@ -1,0 +1,104 @@
+.fixtures_header {
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+.fixtures {
+    /* background-color: pink; */
+    margin-left: 5rem;
+    display: block;
+
+    
+
+    .match_container {
+        /* background-color: yellow; */
+        width: 100%;
+        height: fit-content;
+        overflow-x:auto;
+        display: flex;
+        padding: 10px;
+        margin: 5px;
+
+        scrollbar-width: thin;
+        scrollbar-color: var(--bg-pink) var(--bg-light);
+
+        .match_title {
+            /* background-color: white; */
+            /* display: block; */
+            height: 100px;
+            margin-top: 75px;
+            font-weight: 700;
+            text-align: center;
+        }
+
+        .game_container {
+            /* background-color: green; */
+            height: fit-content;
+            margin-bottom: 30px;
+            margin-top: 15px;
+            /* display: inline-block; */
+            /* max-width: 75%; */
+
+            .game_card {
+                /* background-color: white; */
+                border: 1px solid;
+                border-radius: 15px;
+                /* display: block; */
+                margin-left: 15px;
+                height: fit-content;
+                /* width: 300px; */
+                text-wrap: nowrap;
+
+                .game_date {
+                    font-size: 20px;
+                    text-align: center;
+                    padding: 5px;
+                }
+
+                .game_score_display {
+                    /* background-color: pink; */
+                    background-color: rgba(pink, 0.5);
+                    border: 1px solid pink;
+                    border-radius: 5px;
+                    display: flex;
+                    padding: 10px;
+                    margin: 5px;
+                    font-size: 16px;
+
+                    .game_home, .game_away {
+                        /* background-color: brown; */
+                        padding: 10px;
+                        /* text-wrap: wrap; */
+                    }
+    
+                    .game_score {
+                        background-color: rgba(255, 255, 255, 0.6);
+                        border: 2px solid white;
+                        text-align: center;
+                        font-size: 48px;
+                        border-radius: 10px;
+                        margin: 2px;
+                    }
+                    
+                }
+                .game_stadium {
+                    /* background-color: white; */
+                    text-align: center;
+                    font-variant: small-caps;
+                    font-size: 18px;
+                    border-radius: 10px;
+                }
+                
+            }
+                        
+
+        }
+        
+
+    }
+}
+.game_date {
+    font-weight: 400;
+    font-variant: small-caps;
+}

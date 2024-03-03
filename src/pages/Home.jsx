@@ -1,9 +1,10 @@
+import PageNotFound from "./PageNotFound"
 
 export const Home = () => {
 
     return (
         <>
-            <h1>Home</h1>
+            <PageNotFound/>
         </>
     )
 }

@@ -43,3 +43,23 @@
     }
 
 }
+
+.footer {
+    margin-top: 100px;
+    height: 200px;
+    display: flex;
+    justify-content:space-evenly;
+    background-color: var(--bg-pink);
+
+    .footer_item {
+        /* background-color: green; */
+        position: relative;
+        padding: 20px;
+        background-position: center;
+        background-size: contain;
+        background-repeat: no-repeat;
+        aspect-ratio: inherit;
+        height: 150px;
+    }
+
+}

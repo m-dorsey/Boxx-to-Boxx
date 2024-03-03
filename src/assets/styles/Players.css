@@ -47,3 +47,11 @@
 
 }
 
+.player_modal {
+    position: absolute;
+    overflow-y: hidden;
+    background-color: white;
+    width: 300px;
+    height: 400px;
+}
+

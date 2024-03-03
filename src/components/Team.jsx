@@ -1,12 +1,11 @@
 
 import Pitch from "./Pitch"
 
-export const Team = () => {
+export const Team = (props) => {
 
     return (
         <>
-            <h1>Team</h1>
-            <Pitch />
+            <Pitch  />
         </>
     )
 }

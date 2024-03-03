@@ -7,6 +7,7 @@ import user_data from '../data/user/user_team.json'
 
 export const Formation = (props) => {
 
+    console.log(props)
     const default_jersey = "NON"
     let players_list = []
 
@@ -21,6 +22,7 @@ export const Formation = (props) => {
                 props.formation.map((line) =>
                     <Players
                         key={line[0]}
+                        // path={props.path}
                         className='formation_line player'
                         team={default_jersey}
                         pos={line[0]}

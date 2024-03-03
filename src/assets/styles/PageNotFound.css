@@ -1,0 +1,19 @@
+
+.page_not_found {
+    background-color: purple;
+    margin: 2rem;
+
+    position: relative;
+    height: 600px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.7)), url("https://wallpapercave.com/wp/wp10987197.jpg");
+    background-position: center;
+    background-size:cover;
+
+    .page_not_found_text {
+        color: white;
+        position: absolute;
+        bottom: 0;
+        font-size: 56px;
+    }
+
+}

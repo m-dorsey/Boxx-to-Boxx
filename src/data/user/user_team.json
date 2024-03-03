@@ -11,7 +11,9 @@
                 "player_team": "NJY",
                 "player_birthdate": "1988-02-20",
                 "is_sub": true,
-                "is_assigned": false
+                "is_assigned": false,
+                "cost": "300k",
+                "next_opp": "LA (A)"
             }
         ],
         "SUB": [
@@ -24,7 +26,9 @@
                 "player_team": "ORL",
                 "player_birthdate": "2000-01-12",
                 "is_sub": true,
-                "is_assigned": false
+                "is_assigned": false,
+                "cost": "300k",
+                "next_opp": "POR (A)"
             },
             {
                 "player_id": "1450489890",
@@ -35,7 +39,9 @@
                 "player_team": "WAS",
                 "player_birthdate": "1991-11-20",
                 "is_sub": false,
-                "is_assigned": false
+                "is_assigned": false,
+                "cost": "300k",
+                "next_opp": "SEA (H)"
             },
             {
                 "player_id": "2699857787",
@@ -46,7 +52,9 @@
                 "player_team": "CHI",
                 "player_birthdate": "1987-07-15",
                 "is_sub": true,
-                "is_assigned": false
+                "is_assigned": false,
+                "cost": "300k",
+                "next_opp": "SD (A)"
             },
             {
                 "player_id": "3708570055",
@@ -57,7 +65,9 @@
                 "player_team": "CHI",
                 "player_birthdate": "1998-04-29",
                 "is_sub": true,
-                "is_assigned": false
+                "is_assigned": false,
+                "cost": "300k",
+                "next_opp": "SD (A)"
             }
         ],
         "MID": [
@@ -70,7 +80,9 @@
                 "player_team": "WAS",
                 "player_birthdate": "1995-12-20",
                 "is_sub": false,
-                "is_assigned": false
+                "is_assigned": false,
+                "cost": "300k",
+                "next_opp": "SEA (H)"
             },
             {
                 "player_id": "2664183978",
@@ -81,7 +93,9 @@
                 "player_team": "POR",
                 "player_birthdate": "1997-10-18",
                 "is_sub": false,
-                "is_assigned": false
+                "is_assigned": false,
+                "cost": "300k",
+                "next_opp": "ORL (H)"
             },
             {
                 "player_id": "1390893367",
@@ -92,7 +106,9 @@
                 "player_team": "HOU",
                 "player_birthdate": "1992-11-10",
                 "is_sub": false,
-                "is_assigned": false
+                "is_assigned": false,
+                "cost": "300k",
+                "next_opp": "LOU (H)"
             },
             {
                 "player_id": "3169400859",
@@ -103,7 +119,9 @@
                 "player_team": "KC",
                 "player_birthdate": "1991-10-20",
                 "is_sub": false,
-                "is_assigned": false
+                "is_assigned": false,
+                "cost": "300k",
+                "next_opp": "NC (A)"
             }
         ],
         "DEF": [
@@ -116,7 +134,9 @@
                 "player_team": "HOU",
                 "player_birthdate": "1993-08-19",
                 "is_sub": false,
-                "is_assigned": false
+                "is_assigned": false,
+                "cost": "300k",
+                "next_opp": "LOU (H)"
             },
             {
                 "player_id": "930089969",
@@ -127,7 +147,9 @@
                 "player_team": "SD",
                 "player_birthdate": "2000-06-14",
                 "is_sub": false,
-                "is_assigned": false
+                "is_assigned": false,
+                "cost": "300k",
+                "next_opp": "CHI (H)"
             },
             {
                 "player_id": "3300925233",
@@ -138,7 +160,9 @@
                 "player_team": "NJY",
                 "player_birthdate": "1988-08-04",
                 "is_sub": false,
-                "is_assigned": false
+                "is_assigned": false,
+                "cost": "300k",
+                "next_opp": "LA (A)"
             },
             {
                 "player_id": "424950457",
@@ -149,7 +173,9 @@
                 "player_team": "NC",
                 "player_birthdate": "1998-07-05",
                 "is_sub": false,
-                "is_assigned": false
+                "is_assigned": false,
+                "cost": "300k",
+                "next_opp": "KC (H)"
             }
         ],
         "FWD": [
@@ -162,7 +188,9 @@
                 "player_team": "WAS",
                 "player_birthdate": "2002-05-20",
                 "is_sub": false,
-                "is_assigned": false
+                "is_assigned": false,
+                "cost": "300k",
+                "next_opp": "SEA (H)"
             },
             {
                 "player_id": "321294488",
@@ -173,7 +201,9 @@
                 "player_team": "ORL",
                 "player_birthdate": "1990-05-07",
                 "is_sub": false,
-                "is_assigned": false
+                "is_assigned": false,
+                "cost": "300k",
+                "next_opp": "POR (A)"
             }
         ],
         
