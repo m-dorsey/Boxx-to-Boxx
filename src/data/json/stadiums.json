@@ -1,0 +1,350 @@
+[
+    {
+        "stadium_id": "0Oq62v7q6D",
+        "stadium_name": "Torero Stadium"
+    },
+    {
+        "stadium_id": "0x5g6ojM7O",
+        "stadium_name": "PNC Stadium",
+        "capacity": 22039,
+        "year_built": 2012,
+        "roof": false,
+        "turf": false,
+        "street": "2200 Texas Avenue",
+        "city": "Houston",
+        "province": "Texas",
+        "country": "USA",
+        "postal_code": "77590",
+        "latitude": 29.7522,
+        "longitude": -95.3524,
+        "field_x": 115,
+        "field_y": 73
+    },
+    {
+        "stadium_id": "0x5gJ7mM7O",
+        "stadium_name": "Field of Legends"
+    },
+    {
+        "stadium_id": "4wM4ZmdqjB",
+        "stadium_name": "Rochester Rinos Stadium"
+    },
+    {
+        "stadium_id": "7vQ7xbOMD1",
+        "stadium_name": "Banc of California Stadium",
+        "capacity": 22000,
+        "year_built": 2018,
+        "roof": false,
+        "turf": false,
+        "street": "3939 South Figueroa Street",
+        "city": "Los Angeles",
+        "province": "California",
+        "country": "USA",
+        "postal_code": "90037",
+        "latitude": 34.013,
+        "longitude": -118.285
+    },
+    {
+        "stadium_id": "9Yqda07QvJ",
+        "stadium_name": "Lumen Field",
+        "capacity": 38500,
+        "year_built": 2002,
+        "roof": false,
+        "turf": true,
+        "street": "800 Occidental Avenue South",
+        "city": "Seattle",
+        "province": "Washington",
+        "country": "USA",
+        "postal_code": "98134",
+        "latitude": 47.5952,
+        "longitude": -122.3316,
+        "field_x": 116,
+        "field_y": 75
+    },
+    {
+        "stadium_id": "9YqdkYR5vJ",
+        "stadium_name": "SeatGeek Stadium",
+        "capacity": 20000,
+        "year_built": 2006,
+        "roof": false,
+        "turf": false,
+        "street": "7000 South Harlem Avenue",
+        "city": "Bridgeview",
+        "province": "Illinois",
+        "country": "USA",
+        "postal_code": "60455",
+        "latitude": 41.7647,
+        "longitude": -87.8061,
+        "field_x": 120,
+        "field_y": 75
+    },
+    {
+        "stadium_id": "9YqdwY75vJ",
+        "stadium_name": "Jordan Field"
+    },
+    {
+        "stadium_id": "a35rBro5L6",
+        "stadium_name": "UW Medicine Pitch at Memorial Stadium"
+    },
+    {
+        "stadium_id": "BLMvra8Mxe",
+        "stadium_name": "Lynn Family Stadium"
+    },
+    {
+        "stadium_id": "e7MzlRjqr0",
+        "stadium_name": "Rio Tinto Stadium",
+        "capacity": 20213,
+        "year_built": 2008,
+        "roof": false,
+        "turf": false,
+        "street": "9256 State Street",
+        "city": "Sandy",
+        "province": "Utah",
+        "country": "USA",
+        "postal_code": "84070",
+        "latitude": 40.5829,
+        "longitude": -111.8932,
+        "field_x": 120,
+        "field_y": 75
+    },
+    {
+        "stadium_id": "eVq3alGMWO",
+        "stadium_name": "Toyota Stadium",
+        "capacity": 20500,
+        "year_built": 2005,
+        "roof": false,
+        "turf": false,
+        "street": "9200 World Cup Way",
+        "city": "Frisco",
+        "province": "Texas",
+        "country": "USA",
+        "postal_code": "75033",
+        "latitude": 33.1544,
+        "longitude": -96.8353,
+        "field_x": 117,
+        "field_y": 74
+    },
+    {
+        "stadium_id": "gjMN7lK5Kp",
+        "stadium_name": "Segra Field"
+    },
+    {
+        "stadium_id": "gOMna3xQwN",
+        "stadium_name": "Osceola Heritage Park"
+    },
+    {
+        "stadium_id": "gOMnlReqwN",
+        "stadium_name": "Moda Field"
+    },
+    {
+        "stadium_id": "gpMOoayMzy",
+        "stadium_name": "Yurcak Field"
+    },
+    {
+        "stadium_id": "gpMOrLOQzy",
+        "stadium_name": "WakeMed Soccer Park"
+    },
+    {
+        "stadium_id": "gpMOzdEQzy",
+        "stadium_name": "Soldier Field",
+        "capacity": 61500,
+        "year_built": 1924,
+        "roof": false,
+        "turf": false,
+        "street": "1410 S Museum Campus Drive",
+        "city": "Chicago",
+        "province": "Illinois",
+        "country": "USA",
+        "postal_code": "60605",
+        "latitude": 41.8623,
+        "longitude": -87.6167
+    },
+    {
+        "stadium_id": "gpMOzPrQzy",
+        "stadium_name": "Camping World Stadium",
+        "capacity": 19500,
+        "year_built": 1936,
+        "roof": false,
+        "turf": true,
+        "street": "1 Citrus Bowl Place",
+        "city": "Orlando",
+        "province": "Florida",
+        "country": "USA",
+        "postal_code": "32805",
+        "latitude": 28.5389,
+        "longitude": -81.4028,
+        "field_x": 114,
+        "field_y": 74
+    },
+    {
+        "stadium_id": "KPqjw8PQ6v",
+        "stadium_name": "Zions Bank Stadium"
+    },
+    {
+        "stadium_id": "NPqxAnWQ9d",
+        "stadium_name": "Frontier Field"
+    },
+    {
+        "stadium_id": "NPqxnokM9d",
+        "stadium_name": "Titan Stadium"
+    },
+    {
+        "stadium_id": "NPqxy6XQ9d",
+        "stadium_name": "Children's Mercy Park",
+        "capacity": 18467,
+        "year_built": 2011,
+        "roof": false,
+        "turf": false,
+        "street": "1 Sporting Way",
+        "city": "Kansas City",
+        "province": "Kansas",
+        "country": "USA",
+        "postal_code": "66111",
+        "latitude": 39.1214,
+        "longitude": -94.821,
+        "field_x": 120,
+        "field_y": 75
+    },
+    {
+        "stadium_id": "NWMW84L5lz",
+        "stadium_name": "Red Bull Arena",
+        "capacity": 25000,
+        "year_built": 2010,
+        "roof": false,
+        "turf": false,
+        "street": "600 Cape May Street",
+        "city": "Harrison",
+        "province": "New Jersey",
+        "country": "USA",
+        "postal_code": "07029",
+        "latitude": 40.7367,
+        "longitude": -74.1503,
+        "field_x": 120,
+        "field_y": 75
+    },
+    {
+        "stadium_id": "NWMW8ZN5lz",
+        "stadium_name": "Subaru Park",
+        "capacity": 18500,
+        "year_built": 2010,
+        "roof": false,
+        "turf": false,
+        "street": "1 Stadium Drive",
+        "city": "Chester",
+        "province": "Pennsylvania",
+        "country": "USA",
+        "postal_code": "19013",
+        "latitude": 39.8322,
+        "longitude": -75.3789,
+        "field_x": 120,
+        "field_y": 75
+    },
+    {
+        "stadium_id": "NWMWoE7Mlz",
+        "stadium_name": "MSU Soccer Park"
+    },
+    {
+        "stadium_id": "Oa5wdz9q14",
+        "stadium_name": "Cheney Stadium"
+    },
+    {
+        "stadium_id": "Oa5wKXY514",
+        "stadium_name": "Snapdragon Stadium"
+    },
+    {
+        "stadium_id": "p6qbX06M0G",
+        "stadium_name": "Providence Park",
+        "capacity": 25218,
+        "year_built": 1926,
+        "roof": false,
+        "turf": true,
+        "street": "1844 SW Morrison St",
+        "city": "Portland",
+        "province": "Oregon",
+        "country": "USA",
+        "postal_code": "97205",
+        "latitude": 45.5214,
+        "longitude": -122.6917,
+        "field_x": 110,
+        "field_y": 75
+    },
+    {
+        "stadium_id": "Pk5L6mmQOW",
+        "stadium_name": "Children's Mercy Victory Field"
+    },
+    {
+        "stadium_id": "raMyKkeqd2",
+        "stadium_name": "Daytona International Speedway Stadium"
+    },
+    {
+        "stadium_id": "Vj58W84M8n",
+        "stadium_name": "PayPal Park",
+        "capacity": 18000,
+        "year_built": 2015,
+        "roof": false,
+        "turf": false,
+        "street": "1123 Coleman Avenue",
+        "city": "San Jose",
+        "province": "California",
+        "country": "USA",
+        "postal_code": "95110",
+        "latitude": 37.3514,
+        "longitude": -121.925,
+        "field_x": 115,
+        "field_y": 74
+    },
+    {
+        "stadium_id": "vzqoGO7qap",
+        "stadium_name": "Maryland SoccerPlex",
+        "capacity": 4000,
+        "year_built": 2000,
+        "roof": false,
+        "turf": false,
+        "street": "18031 Central Park Circle",
+        "city": "Boyds",
+        "province": "Maryland",
+        "country": "USA",
+        "postal_code": "20841",
+        "latitude": 39.1528,
+        "longitude": -77.3136,
+        "field_x": 115,
+        "field_y": 75
+    },
+    {
+        "stadium_id": "vzqoJrj5ap",
+        "stadium_name": "Exploria Stadium",
+        "capacity": 25500,
+        "year_built": 2017,
+        "roof": false,
+        "turf": false,
+        "street": "655 West Church Street",
+        "city": "Orlando",
+        "province": "Florida",
+        "country": "USA",
+        "postal_code": "32805",
+        "latitude": 28.5411,
+        "longitude": -81.3893,
+        "field_x": 120,
+        "field_y": 75
+    },
+    {
+        "stadium_id": "xW5p3L0Mg1",
+        "stadium_name": "CPKC Stadium"
+    },
+    {
+        "stadium_id": "xW5pwORMg1",
+        "stadium_name": "Audi Field",
+        "capacity": 20000,
+        "year_built": 2018,
+        "roof": false,
+        "turf": false,
+        "street": "100 Potomac Avenue SW",
+        "city": "Washington",
+        "province": "District of Columbia",
+        "country": "USA",
+        "postal_code": "20024",
+        "latitude": 38.8683,
+        "longitude": -77.0122,
+        "field_x": 115,
+        "field_y": 75
+    }
+]
