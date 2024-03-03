@@ -1,0 +1,14 @@
+
+.hero {
+    position: relative;
+    min-height: 350px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.6)), url('https://equalizersoccer.com/wp-content/uploads/2024/02/SP24_NWSL_NA_PRIMARY_HERO_01_4x2-scaled.jpg');
+    background-position: center;
+    background-size:contain;
+
+    .hero-navigation {
+        position: absolute;
+        bottom: 0px;
+    }
+    
+}

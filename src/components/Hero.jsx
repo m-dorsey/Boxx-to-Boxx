@@ -1,10 +1,15 @@
 
+import '../assets/styles/Hero.css'
+import Navigation from './Navigation'
+
 export const Hero = () => {
 
     return (
-        <>
-            <h1>Hero</h1>
-        </>
+        <div className='hero'>
+            <div className='hero-navigation'>
+                <Navigation />
+            </div>
+        </div>
     )
 }
 

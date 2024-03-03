@@ -19,7 +19,6 @@ const App = () => {
 
       <TeamSites />
       <Hero />
-      <Navigation />
 
       <Routes>
         <Route path="/" element={<Home />} />
