@@ -1,0 +1,72 @@
+{
+    "LA": {
+        "trim": "#29282B",
+        "neck": "#2C2C2E",
+        "body": "#313133"
+    },
+    "BAY": {
+        "trim": "#E7E7E7",
+        "neck": "#B5B5B6",
+        "body": "#C1C1C1"
+    },
+    "CHI": {
+        "trim": "#6886AE",
+        "neck": "#9A9A9A",
+        "body": "#E6E6E6"
+    },
+    "HOU": {
+        "trim": "#473B29",
+        "neck": "#DBB0A7",
+        "body": "#FF8E00"
+    },
+    "KC": {
+        "trim": "#54B7AE",
+        "neck": "#DB2B32",
+        "body": "#CC2133"
+    },
+    "NJY": {
+        "trim": "#17181A",
+        "neck": "#111112",
+        "body": "#465E61"
+    },
+    "NC": {
+        "trim": "#BFB5B1",
+        "neck": "#05050A",
+        "body": "#16255D"
+    },
+    "ORL": {
+        "trim": "#4D387F",
+        "neck": "#302357",
+        "body": "#2D1E5B"
+    },
+    "POR": {
+        "trim": "#131313",
+        "neck": "#030303",
+        "body": "#79201C"
+    },
+    "LOU": {
+        "trim": "#212332",
+        "neck": "#13131D",
+        "body": "#6F6482"
+    },
+    "SD": {
+        "trim": "#2C4097",
+        "neck": "#121D4F",
+        "body": "#1B1B34"
+    },
+    "SEA": {
+        "trim": "#866544",
+        "neck": "#222438",
+        "body": "#272A41"
+    },
+    "UTA": {
+        "trim": "#494B6D",
+        "neck": "#D1C2A4",
+        "body": "#E6BD54"
+    },
+    "WAS": {
+        "trim": "#222222",
+        "neck": "#2A2D32",
+        "body": "#464A52"
+    }
+}

@@ -1,0 +1,43 @@
+
+
+.player {
+    display: flex;
+    background-color: blueviolet;
+
+    .player_container {
+        background-color: chocolate;
+        position: relative;
+
+        .player_left_icons {
+            background-color: aqua;
+            display: inline-block;
+            position: absolute;
+            top: 0;
+            left: 0;
+        }
+
+        .player_right_icons {
+            background-color: burlywood;
+            display: inline-block;
+            position: absolute;
+            top: 0;
+            right: 0;
+        }
+
+        .player_snippet {
+            margin-top: -5px;
+            background-color: yellow;
+            font-size: 12px;
+        }
+
+    }
+
+}
+
+.jersey {
+
+    color: red;
+    height: 80px;
+    border: 1px solid;
+
+}

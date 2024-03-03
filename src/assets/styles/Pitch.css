@@ -1,0 +1,68 @@
+/**
+.pitch {
+    background-color: yellow;
+    position: relative;
+    display: block;
+
+    .pitch_img {
+        background-color: royalblue;
+        background-image: url('../images/pitch.png');
+        
+        height: auto;
+        margin: 0 auto;
+        position: absolute;
+    }
+
+    .pitch_formation {
+        background-color: pink;
+        
+        width: 50%;
+        min-height: 75px;
+        border: 1px solid;
+        margin: 0 auto;
+        position: static;
+        
+        padding: 10px;
+    }
+
+}
+
+**/
+
+.pitch {
+    background-color: yellow;
+    position: relative;
+    min-height: 550px;
+    background-image: url('../images/pitch.png');
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+
+    .pitch_formation {
+        /* background-color: pink; */
+        position: absolute;
+        justify-content: center;
+        display: flex;
+        flex-direction: column;
+        flex-direction: column-reverse;
+        bottom: 0px;
+        left: 25%;
+        right: 25%;
+
+        .formation_line {
+            background-color: brown;
+            display: flex;
+            justify-content: center;
+            min-width: 25rem;
+            height: 75px;
+            margin: 0 auto;
+            margin-bottom: 40px;
+        }
+
+        .formation_line:first-child {
+            margin-bottom: 85px;
+        }
+
+    }
+
+}
