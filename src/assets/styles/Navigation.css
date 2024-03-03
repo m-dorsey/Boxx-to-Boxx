@@ -23,3 +23,24 @@
         background-color: blue;
     }
 }
+
+.team-site-header {
+    background-color: purple;
+    display: flex;
+    justify-content: center;
+
+    .team-site {
+        background-color: darkcyan;
+
+        .team-badge {
+            background-color: hotpink;
+            max-height: 65px;
+            padding: 10px;
+        }
+
+        img.team-badge:hover {
+            max-height: 70px;
+        }
+    }
+
+}
