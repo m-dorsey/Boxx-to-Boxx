@@ -1,6 +1,6 @@
 
 import '../assets/styles/Players.css'
-import colors from '../data/colors.json'
+import colors from '../data/json/colors.json'
 
 export const Jersey = (props) => {
 

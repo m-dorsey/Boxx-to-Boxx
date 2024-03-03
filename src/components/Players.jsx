@@ -118,7 +118,6 @@ export const Player = (props) => {
     const [modal, setModal] = useState(false)
     const toggleModal = (name) => {
         setModal(!modal)
-        console.log(name)
     }
 
     return (
@@ -137,7 +136,7 @@ export const Player = (props) => {
                             >
                                 <Jersey key={player} team={player['team']} />
                                 {modal &&
-                                    (<PlayerCard />)
+                                    (<PlayerCard name={player['name']} />)
                                 }
                                 
                             </NavLink>
